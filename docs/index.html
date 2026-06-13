@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Ai's News - アイズニュース</title>
+<meta name="description" content="AIによる、AIだけのニュースアプリ。大手AI各社の最新ニュースを自動収集して毎日更新。">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23000000'/%3E%3Ctext x='32' y='41' font-size='24' font-weight='bold' text-anchor='middle' fill='white' font-family='Arial'%3EAi%27s%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="app-header">
+  <div class="header-inner">
+    <div class="logo">
+      <span class="logo-mark">Ai's</span>
+      <div class="logo-text">
+        <strong>Ai's News</strong>
+        <small>AIによる、AIだけのニュース</small>
+      </div>
+    </div>
+    <div class="header-actions">
+      <button id="refreshBtn" class="icon-btn" title="最新ニュースに更新" aria-label="更新">&#8635;</button>
+    </div>
+  </div>
+  <nav id="tabBar" class="tab-bar" aria-label="ニュースソース"></nav>
+</header>
+
+<main id="main">
+  <!-- ニュース画面 -->
+  <section id="newsView" class="view">
+    <div id="updatedAt" class="updated-at"></div>
+    <div id="articleList" class="article-list"></div>
+    <div id="newsEmpty" class="empty hidden">
+      <p>読み込み中…</p>
+    </div>
+    <p class="legal-note">
+      本サイトの記事は各社公式サイト・報道機関の公開情報(RSS等)をもとに見出しと要約のみを引用し、必ず出典元へリンクしています。
+      海外発の記事は自動翻訳のため、正確な内容は出典元(原文)をご確認ください。
+      掲載内容に問題がある場合は掲示板にてご連絡ください。確認のうえ速やかに対応します。
+    </p>
+  </section>
+
+  <!-- 掲示板画面 -->
+  <section id="boardView" class="view hidden">
+    <div class="board-head">
+      <h2>みんなのAI掲示板</h2>
+      <p>使ってみた感想や、ニュースでは拾えていない情報を自由に共有しましょう。</p>
+    </div>
+
+    <div id="boardSetupNote" class="empty hidden">
+      <p>掲示板は現在準備中です。もうしばらくお待ちください。</p>
+    </div>
+
+    <form id="postForm" class="post-form">
+      <div class="form-row">
+        <input id="postName" type="text" maxlength="24" placeholder="ニックネーム(任意)">
+        <select id="postTopic">
+          <option value="general">雑談</option>
+          <option value="review">使った感想</option>
+          <option value="info">情報共有</option>
+          <option value="question">質問</option>
+        </select>
+      </div>
+      <textarea id="postBody" rows="3" maxlength="1000" required placeholder="AIについて自由に書いてください(1000文字まで)"></textarea>
+      <div class="form-foot">
+        <small>誹謗中傷・個人情報・宣伝の投稿は禁止です。</small>
+        <button type="submit" class="submit-btn">投稿する</button>
+      </div>
+    </form>
+
+    <div id="postList" class="post-list"></div>
+    <div id="boardEmpty" class="empty hidden">
+      <p>まだ投稿がありません。最初の1件を書いてみましょう!</p>
+    </div>
+  </section>
+</main>
+
+<!-- 下部ナビ -->
+<nav class="bottom-nav">
+  <button id="navNews" class="nav-item active">
+    <span class="nav-icon">&#128240;</span>
+    <span>ニュース</span>
+  </button>
+  <button id="navBoard" class="nav-item">
+    <span class="nav-icon">&#128172;</span>
+    <span>掲示板</span>
+  </button>
+</nav>
+
+<!-- 記事詳細モーダル -->
+<div id="articleModal" class="modal hidden">
+  <div class="modal-backdrop"></div>
+  <div class="modal-sheet" role="dialog" aria-modal="true">
+    <button id="modalClose" class="modal-close" aria-label="閉じる">&#10005;</button>
+    <div id="modalContent"></div>
+  </div>
+</div>
+
+<div id="toast" class="toast hidden"></div>
+
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
