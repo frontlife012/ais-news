@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-16T14:18:09.397Z",
+ "updatedAt": "2026-07-16T19:32:53.688Z",
  "count": 360,
  "sources": [
   {
@@ -68,9 +68,77 @@
  ],
  "articles": [
   {
+   "id": "d229501cbdb926af",
+   "sourceId": "openai",
+   "title": "【メタ監視委員会】OpenAIとAnthropicのチャットボット、抑圧的政権への批判を検閲する傾向が顕著に",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RU1NmSUF4RW5JWC1FYzJfUVRNMEp2a29KajQ0X0x0NjdFUE0xSDFuNWRQcFJNNEZSN252M1NsTEVldjdzanY3RkFtZFN1U3pvV3FlMFlVSjBwYkJ5QkxWeGlQX0s4enJjSmV5SnZhQ3diVFNS?oc=5",
+   "publisher": "BigGo ファイナンス",
+   "date": "2026-07-16T18:36:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "9558db8fc1968cf6",
+   "sourceId": "openai",
+   "title": "OpenAIはオルトマンCEOが「低調」な時期を経て、躍進の年を予告 執筆 - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HSVFKQXl6TVFUU0tza1lXbVVwY0pQZWdCQmp0Y28tczZvRHh1US11dlRIRHJzVXRSQWNIVklBOVliOURfamlrRVVMR1JUMHJkUzlFenJ6aWZITmZrYnZIMExsMnk2eUZXblhtU0ZWTUE?oc=5",
+   "publisher": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "date": "2026-07-16T18:31:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "ca2156e96a00d885",
+   "sourceId": "openai",
+   "title": "十代の若者が安全な AI にアクセスする価値がある理由",
+   "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+   "publisher": "openai.com",
+   "date": "2026-07-16T16:00:00.000Z",
+   "excerpt": "OpenAI が、年齢に応じた保護、学習ツール、ペアレンタル コントロール、専門家とのパートナーシップにより、ChatGPT を 10 代の若者にとってどのように安全にしているかをご覧ください。",
+   "image": null,
+   "via": "RSS",
+   "titleOrig": "Why teens deserve access to safe AI",
+   "excerptOrig": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships."
+  },
+  {
+   "id": "6ebaaaa64f5386e3",
+   "sourceId": "openai",
+   "title": "【AI独角兽】估值逼近1兆ドル、AnthropicがIPO投資家向け会合を開始か 早ければ10月に上場",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0WmFYNTlnX2hQVG83NmF6Tl9hVGVZSE5mMlh1UnduRms3eDY4RHgxa25ubVRqc2pOeEFrTkdVaVIxam01UW5Dc3hvOWN0ZEEtZXNEQlNpY2ozT1JBcGR0aUJoQWJiYjQxcDdnbTdaZjFxbk5Y?oc=5",
+   "publisher": "BigGo ファイナンス",
+   "date": "2026-07-16T14:25:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "3a2c6a79a11bf5db",
+   "sourceId": "openai",
+   "title": "OpenAI 初のハードウェアを販売",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSbVMzQW4tQWJJNmRFUzZzWmdBdTNsSnZuY3F6Tmc5blV5dllGRjMxQS1FaDdLTk91TGdnaHl5bFJNTEh0aHljdG9Idnd3QWdN?oc=5",
+   "publisher": "Yahoo!ニュース",
+   "date": "2026-07-16T14:20:31.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "a1b7536801fc2512",
+   "sourceId": "openai",
+   "title": "【テオ氏が批判】OpenAI Codexのシステムプロンプトは「過去最悪」— ある開発者が自ら書き換えに着手",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40XzNYeXc3TnhSSHVzaG1ESnNvTDZMSjZ5c1lWT3d0SkhvTmpTcjB4RWNaV1VFYW1MUVBPN2V5UUx5a2lseUZWQ1BBOTJQMmd0ZXh1UEVHZnZKZw?oc=5",
+   "publisher": "BigGo ファイナンス",
+   "date": "2026-07-16T13:08:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
    "id": "81a9504787744c6e",
    "sourceId": "openai",
-   "title": "「バーティカルAI」関連銘柄を紹介！ ChatGPTなどの汎用AIに比べ、日本が強みを持つ業界特化型AIは、「AI主権」の確保につながる国策テーマとして要注目",
+   "title": "｢バーティカルAI｣関連銘柄を紹介！ ChatGPTなどの｢汎用AI｣は出遅れたが｢業界特化型のバーティカルAI｣では日本独自の価値の創出と“AI主権”の確保が可能！",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sY2JCRnEtUEp4WnpLaGtNblZ1OG9OZDlTWTBwZ0lBVk1hWlR1NzBvRFFWUGFybTFaSHRsV2xYa3d0ZDdoWGZ6NENVYWJhRUVmLXRv?oc=5",
    "publisher": "ダイヤモンド・オンライン",
    "date": "2026-07-16T12:45:00.000Z",
@@ -96,17 +164,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpODZCTDZ5b2ZzWGlyRm1zSWZzMzV3YWxZQVkyclJMblFDVzI4X29oNldReXdjQU04Ny1renVZQjVySmZrVXZDa05XMUtsSU5LOXMyMGNHVTFydw?oc=5",
    "publisher": "Vietnam.vn",
    "date": "2026-07-16T11:02:49.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "d3d3f1cb8c8aeb50",
-   "sourceId": "openai",
-   "title": "GPT‑Redとは？OpenAIがAIでAIを攻撃し、GPT‑5.6の堅牢性を高めた仕組み",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1LTJieENEMWpFV3JUSS0tY0hPa0czRURrUk1WREFGWHdTaDdKS3VHOE5nV0szVDR3V3ZwbTVqYy0zdXZVOTJGdTZ1bkROd0VseE5Z?oc=5",
-   "publisher": "innovaTopia",
-   "date": "2026-07-16T10:40:51.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -156,28 +213,6 @@
    "via": "Google News"
   },
   {
-   "id": "f50f07fa219673b0",
-   "sourceId": "openai",
-   "title": "230ドルの正体は144ドルの既製品——OpenAI初のハードウェア「Codex Micro」を巡る意外な事実",
-   "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9fZVpVcGY1R0VreHM5a1VTUUJUcUdVZXpmdk0tMXJfZjBzUXRPOU1Cd3B2TGptM21GVV9OQW41Y2s?oc=5",
-   "publisher": "shiritomo",
-   "date": "2026-07-16T08:20:38.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "920c7c4c3e9dbc13",
-   "sourceId": "openai",
-   "title": "AIが自ら攻撃し、自ら学ぶ ― OpenAIの新セキュリティAI「GPT-Red」",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UbGNBMzdmcTRkd2hSQkZhWG1CSWhQVkZnc051UjhBSHJuQ2tsZTJGTHI3U21FSXlkaHprU3c3SmdLeHQtZ2ZOTG5OcWh4cHRZam01LU4zQUp3YlZ6X2ZyMmdIVGR1U0p1?oc=5",
-   "publisher": "株式会社エクサウィザーズ",
-   "date": "2026-07-16T07:40:10.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "f611e8b167a04268",
    "sourceId": "openai",
    "title": "ChatGPTが検索機能を強化 保存済みチャット・Projects・画像・ファイルを横断検索可能に",
@@ -200,12 +235,34 @@
    "via": "Google News"
   },
   {
-   "id": "a9d12de0db31039f",
+   "id": "1b42020b97c5ab4c",
    "sourceId": "openai",
-   "title": "「Claude」利用制限を全リセット CodexとChatGPT Workも “リセット合戦”再び（1/2 ページ）",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMSllJQ3NsV0VNM251eEFOUlZKaUJUZTVwTUpLdFk2NVQ4OF9sNlZyZkdFOVlSanB0Z2ZHRzZRX3ZhVHpaR0FON0NnVkdIUUJfN3l1emZ4cHhFZmlsM2prdEpEQjYzZm5objFmUQ?oc=5",
-   "publisher": "ITmedia",
-   "date": "2026-07-16T06:15:24.000Z",
+   "title": "ChatGPTの利用制限が再びリセット！900万ユーザー到達で",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FUmtzUVN4T3JwNDFXUXhvWnM0Y3p6MUVPQ2YtTV91TW5vLUhCWjVmaC0zXzZJOEZKQThvVVU3ak5kbGVTS1Y4VU16c28zTEw0ZHlkTTg3ak1yaG9KUmtKMU9ETQ?oc=5",
+   "publisher": "PC Watch",
+   "date": "2026-07-16T06:46:56.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "cadc56c959ee4be2",
+   "sourceId": "openai",
+   "title": "GPT-5.6正式発表：3モデルで層別攻勢、OpenAIとAnthropicの開発者囲い込み競争が激化",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83cmtvWUIxb1NJd3JhZkwzZEY5MlRuNW1FTk9kVzNkZFdzaXlUWGpHT0RGdHEtTXNGc1pCaUxzN0VkNlliOThlTi1EY0lKeXVNWnNHaG5mOHV4WHNDTXktdGpNbWRsYU0td1JDV2RVTE9ZeUNR?oc=5",
+   "publisher": "BigGo ファイナンス",
+   "date": "2026-07-16T06:26:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "12f7ccb9f1ab7043",
+   "sourceId": "openai",
+   "title": "「Claude」利用制限を全リセット CodexとChatGPT Workも “リセット合戦”再び（ITmedia NEWS）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44ZmstaFE3dGQ2MkNNWVBjalNTUzdJLXpKM2hsUllIaktPOXE5V0RVb21VT3hJb3N6MFVKYVhvdzRKV0pxWFhySFVGUmJyMllTc1RJSlk5Y1AxY1FxMTVDbmo3TGxfM29XR3lGakpvZ0VvSFhFRXBxeVI4QnhpYm8?oc=5",
+   "publisher": "Yahoo!ニュース",
+   "date": "2026-07-16T06:17:22.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -288,17 +345,6 @@
    "via": "Google News"
   },
   {
-   "id": "1f8368f2db55e8bf",
-   "sourceId": "openai",
-   "title": "ChatGPT、韓国月間利用者数が2,300万人突破…Naver検索の牙城揺るがす",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YR25mMENQbUVzb0RtdG1ydlVYbloybXpTRmE0U0phN3ZqcWthN2x1cWk5UFJiLUNpRnlORlJrYVdHNUl0RFEyVDhIOXpiaFZpMl84UUE3VGktcEdrNzRlTXdpZGNQR2Rlckc1bG8wVUxCUjBj?oc=5",
-   "publisher": "BigGo ファイナンス",
-   "date": "2026-07-16T02:36:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "76bc8211fbf2096f",
    "sourceId": "openai",
    "title": "インテル18A歩留まり85%に急上昇、NVIDIA・OpenAIの大型受注獲得か ウォール街AIブームで四半期利益1.6兆円",
@@ -316,17 +362,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SQ2kwZFBRNzRFaFlhRFU1YmlEMmJiN1doZkZHTE9tMUJwdGNHQ3ZEYVRhbThfRW43UUxHX281TVBCZ290NXF5NzJjRVBYNjRoS1MyZklsQTFBbDM3bHFtR2pjcTJmNzN3VXk4UjVWMDBGcTZq?oc=5",
    "publisher": "BigGo ファイナンス",
    "date": "2026-07-16T02:05:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "0d88da0fff531a59",
-   "sourceId": "openai",
-   "title": "ChatGPTが利用率47.5%で首位獲得、Perplexityは毎日利用率72.7%で品質重視層に支持|AI利用実態調査",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BUHA2M2hNdnJrckE3TkF2TklsTnlaYy14bVUzZUJQVkxZZDFocVN6am80XzMxWjNpVzVzOGRlQlV6ZnBrVXVWcE9vTTFYZUlTU3F3bDFR?oc=5",
-   "publisher": "コマースピック",
-   "date": "2026-07-16T01:56:47.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -398,17 +433,6 @@
    "via": "Google News"
   },
   {
-   "id": "3c8759c14f7c6497",
-   "sourceId": "openai",
-   "title": "2026年上半期の新規インストール1位はChatGPT…zetaは1人当たり月40時間利用",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90LVJpSFN6X0FNbWRKQjE4Wmp0MkRMcjBibENBV2ZaWWg1R2lVdlRKOHRqWDhLLTVJcGthaWFfRmJjZ3VrT3VXY2V2SEtWSWZjdlJSUjQ0eF8xbWl0X3VMb01WS2JfNmppVHVkMjFVWThrZ0NjOFpEdA?oc=5",
-   "publisher": "korit.jp",
-   "date": "2026-07-16T00:24:32.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "31447892f3a802b2",
    "sourceId": "openai",
    "title": "【OpenAI】トークン単価比較は終焉、企業に「成果ベース」のAI投資評価を提言",
@@ -420,12 +444,25 @@
    "via": "Google News"
   },
   {
-   "id": "292d11cd58f2a2f5",
+   "id": "e8a71479efda1fd4",
    "sourceId": "openai",
-   "title": "元OpenAI CTO率いるThinking Machines、初のモデル公開 性能競争よりカスタマイズ重視",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zVmlGS2hDMWNKQTBESWxkRUlnaGhNRHhlZ3ZYQWVmSmxuWS04LU5NLWtTUWFnUzZEX3ZwWTZGaEQwMlZ5OGoxZ0wzNXJxYlBmSThEa3hyNHMzSGtvY05laERVNV9hTFpJ?oc=5",
-   "publisher": "マイナビニュース",
-   "date": "2026-07-15T23:17:54.000Z",
+   "title": "Cars24 が OpenAI を使用して会話を拡張し、より迅速に構築する方法",
+   "link": "https://openai.com/index/cars24",
+   "publisher": "openai.com",
+   "date": "2026-07-16T00:00:00.000Z",
+   "excerpt": "Cars24 は、OpenAI を活用した音声およびチャット エージェントを使用して、月間 100 万分を超える会話を処理し、失われたリードの 12% を回復し、エージェント ワークフローを社内のチームにもたらします。",
+   "image": null,
+   "via": "RSS",
+   "titleOrig": "How Cars24 scales conversations and builds faster with OpenAI",
+   "excerptOrig": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company."
+  },
+  {
+   "id": "058df4106ad70084",
+   "sourceId": "openai",
+   "title": "【調査リリース】ChatGPT・Perplexity・Gemini、一番使われているAIはどれ？【305人調査】",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2VFNNdHRmNWZtTGtfUWRzeFBMa1dZdnBHaDY2UWIzZmYzNVZURUtoVkJWY29KaVJnVDVOdHFydk1ZZEU4WUJQczhUVEN2ZFF4ZFg1SHdHandjdWlzQjdfR1hsTDB4MWluQUE?oc=5",
+   "publisher": "PR TIMES",
+   "date": "2026-07-15T23:00:02.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -436,18 +473,7 @@
    "title": "OpenAI、初の消費者向けデバイスは「スマートスピーカー」か",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GNExVeldsTGtYbnlIbUt5M2VDYzZ5TXU0T0F2UkJLTmJ0WlVpSjJQZGN5VjVscHh2Nld2Zks1Z19odUZ0NkpNRXJVWUFGUnBGNW1NcENsY1hYdmh5dmpsc0gyQWpMZ0FvMW41ZUNobHV3YVo0d0RzeFVuZVFqaEk?oc=5",
    "publisher": "Yahoo!ニュース",
-   "date": "2026-07-15T23:05:29.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "058df4106ad70084",
-   "sourceId": "openai",
-   "title": "【調査リリース】ChatGPT・Perplexity・Gemini、一番使われているAIはどれ？【305人調査】",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2VFNNdHRmNWZtTGtfUWRzeFBMa1dZdnBHaDY2UWIzZmYzNVZURUtoVkJWY29KaVJnVDVOdHFydk1ZZEU4WUJQczhUVEN2ZFF4ZFg1SHdHandjdWlzQjdfR1hsTDB4MWluQUE?oc=5",
-   "publisher": "PR TIMES",
-   "date": "2026-07-15T23:00:02.000Z",
+   "date": "2026-07-15T23:00:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -464,12 +490,12 @@
    "via": "Google News"
   },
   {
-   "id": "6194ceebffc93ed3",
+   "id": "4645af4dacb2d22a",
    "sourceId": "openai",
-   "title": "OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PTERRYU5fOUxSeXpjd05IcmtfNnJnX1pEZ2g1YzJJNDg3RWNxM2prUlhFWU5ISHNYTV9RcXRSNWxuaHVlblFpdF9hbGZCQXpueFdlc3dNYkgxcFhSZ3hGUjRNLUFUWjkzenJZYg?oc=5",
-   "publisher": "ITmedia",
-   "date": "2026-07-15T22:26:00.000Z",
+   "title": "OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物（ITmedia NEWS）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43MmltbEVuTWhBSnduVDJWR2NTRVpTX0VQV3BCVlpMbWhCYm8xaWtVRHJjRkhkd2FTdHBHa0tRUWlRTmZrX3QxUll6ekpHSWVXRk9FQ1JmakNhbGNFdW10THYxLVRvamFmUGlBcGo0dXMwcDZDRnlQMDlwdHlIRjQ?oc=5",
+   "publisher": "Yahoo!ニュース",
+   "date": "2026-07-15T22:31:50.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -486,23 +512,78 @@
    "via": "Google News"
   },
   {
-   "id": "40e42d765ce57b6b",
-   "sourceId": "openai",
-   "title": "「トークン単価ではなく、1ドルでどれだけ仕事が進んだか」で判断を OpenAIが企業へアドバイス",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vNUdzZDFYU2piZC11THR0elNSbm5VTFdzRXNKM3oxMUhwa1YtbXBRa0RxVThpTkFIeDBaOXF1UzVGQkRHbzd4Mmc3R2FlTzJ3aVE?oc=5",
-   "publisher": "CNET Japan",
-   "date": "2026-07-15T22:12:00.000Z",
+   "id": "835d181c87c2af6b",
+   "sourceId": "anthropic",
+   "title": "【メタ監視委員会】OpenAIとAnthropicのチャットボット、抑圧的政権への批判を検閲する傾向が顕著に",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RU1NmSUF4RW5JWC1FYzJfUVRNMEp2a29KajQ0X0x0NjdFUE0xSDFuNWRQcFJNNEZSN252M1NsTEVldjdzanY3RkFtZFN1U3pvV3FlMFlVSjBwYkJ5QkxWeGlQX0s4enJjSmV5SnZhQ3diVFNS?oc=5",
+   "publisher": "BigGo ファイナンス",
+   "date": "2026-07-16T18:36:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
   },
   {
-   "id": "5181fdfe5025b067",
-   "sourceId": "openai",
-   "title": "Cowork vs. Work、クロスデバイス統合のClaudeか？ ネイティブ統合のChatGPTか？ 2社の統合戦略を読み解く",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoYzNrbHJjeko2azg4Ym1pRS1uUnFsUzdscFdjWGJ1bzFfeHd4ZmM5Tk1MZWtrVmNGWlppQXJhN0RYRUwtdldyUWZFMGFZckJnMTlaelNPWFlUdFoxeFdwcDhYa3pUNE9wTndtWA?oc=5",
-   "publisher": "株式会社インプレス",
-   "date": "2026-07-15T22:00:00.000Z",
+   "id": "3eb8fd3b2f4e1634",
+   "sourceId": "anthropic",
+   "title": "Claude Opus 4.8とは？4.7からの進化点・新機能・料金を徹底解説",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WUGk3MFYwMklHSC1EMnc5NTd5TWl4YmxvRkxjdU1qMlB1c0Y3akIyRjBHRERpQ0FBaFZ0aFRxT2ZTS2E5M1BkV3hQYngtM08tQVhwUzYtenBibmc?oc=5",
+   "publisher": "AIsmiley",
+   "date": "2026-07-16T18:01:46.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "ba41a08683652f46",
+   "sourceId": "anthropic",
+   "title": "【完全版】Claudeアーティファクト(Artifacts)の使い方・ビジネス活用法・プロンプト例",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NYk9naDc0cmpZLUd4VUlfalEwQ2IxUUZUb2laUmtwdGZCTVcwZEE0R2xZd1NLam9jSThQclFuWkI0T3hXTDBHdzJKc19vYUZYUmt3NnA0bkNUNkZDX3doZ2FESQ?oc=5",
+   "publisher": "AIsmiley",
+   "date": "2026-07-16T15:13:31.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "37d815ac6ce67dcc",
+   "sourceId": "anthropic",
+   "title": "ザッカーバーグ、Xに復帰しCodexとClaude Codeに挑戦 | SKハイニックス、260億ドルのIPO｜20VC",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iRXBOSmxlMXMtQ19NTkR6ejRJbi1PdjNVdDJnWS1CUFoyVkJubXBVRWF2ckk3VHFRZGUzTkEtSGpTdE8xbGhtYloyc1J6QzlsN1pMVThEM0VObGhpY3c?oc=5",
+   "publisher": "BigGo ファイナンス",
+   "date": "2026-07-16T14:57:44.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "de1bf55b1d73ba02",
+   "sourceId": "anthropic",
+   "title": "【AI独角兽】估值逼近1兆ドル、AnthropicがIPO投資家向け会合を開始か 早ければ10月に上場",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0WmFYNTlnX2hQVG83NmF6Tl9hVGVZSE5mMlh1UnduRms3eDY4RHgxa25ubVRqc2pOeEFrTkdVaVIxam01UW5Dc3hvOWN0ZEEtZXNEQlNpY2ozT1JBcGR0aUJoQWJiYjQxcDdnbTdaZjFxbk5Y?oc=5",
+   "publisher": "BigGo ファイナンス",
+   "date": "2026-07-16T14:25:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "ca0c9dea7cb3d78e",
+   "sourceId": "anthropic",
+   "title": "Claude Fable 5とは？AI Market編集部の実使用レビュー、できること、料金、使い方解説！",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTTVBpRU5SeUhDQUhlZmkyeVZJNXhxY21WRDluLTA4OG5jdURtVmdkWWZVeE1BS1djSFhVd0JCNkJnejZ0RllPUGZrbWpjZ2htV25IV2NVSlRCckE?oc=5",
+   "publisher": "ai-market.jp",
+   "date": "2026-07-16T12:01:29.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "28625c104069e24f",
+   "sourceId": "anthropic",
+   "title": "【7/29(水)無料セミナー】Claude Codeと安全に働く組織のつくり方 ～ 導入前に整えるべき3つの土台",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xcXNYcUplUFk1YXo4aWMtX3NwUVVkZndOdGlOQjdHZ19qeGp0dkg4RFRuVklhX0dHMGg4TmFKM18zZkM2U2dDTk5weVEwNThWdkg3UjJFY2kxTVJaWWlBQkh2Nlp2WUhz?oc=5",
+   "publisher": "ニコニコニュース",
+   "date": "2026-07-16T11:45:27.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -557,7 +638,18 @@
    "title": "倫理観のある優等生だから嘘をつく＝Anthropicが公開したAI監視の落とし穴",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yVkZZdzNGSTBjRWxIQzNuRng0dlZzUWtPMGhHdDhaM3F1RkVIUmU5RndPNmVBZ3BiTGUxUFZtZVFweGVlazRNOEVTZkNJUFY1UEhVQ1A0NDNPam5ydnFuRFo2ZHd4QQ?oc=5",
    "publisher": "株式会社エクサウィザーズ",
-   "date": "2026-07-16T07:40:10.000Z",
+   "date": "2026-07-16T07:40:11.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "4c94a13122522d8a",
+   "sourceId": "anthropic",
+   "title": "Claude Partner Network認定パートナーのplayknot、Claudeの仕組みと企業活用に必要な基礎知識を公開",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PMmdnSHpYaXRJSmNkbEF6SGxvYnlGN2hqelA1RzhTbk9obWlpRmpxZkxBSUt5MDE0OHVUTTA3V01jZE9HOVRKUkl6RzJ4RGp2NllhNEtKT2dqSHFQMG5WcUhzN0w1MHMtRGNv?oc=5",
+   "publisher": "時事ドットコム",
+   "date": "2026-07-16T06:46:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -569,6 +661,17 @@
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2Y3pMZzJyeFBTRW5YR3BjemxJR3BUMDd6Z0p4SlFobm1GbWpvemgyNGZwbnc4SlJMSm5RNHA3eUZidGNKTUtSZQ?oc=5",
    "publisher": "みんかぶ",
    "date": "2026-07-16T06:30:02.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "52bd86c6caca4765",
+   "sourceId": "anthropic",
+   "title": "GPT-5.6正式発表：3モデルで層別攻勢、OpenAIとAnthropicの開発者囲い込み競争が激化",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83cmtvWUIxb1NJd3JhZkwzZEY5MlRuNW1FTk9kVzNkZFdzaXlUWGpHT0RGdHEtTXNGc1pCaUxzN0VkNlliOThlTi1EY0lKeXVNWnNHaG5mOHV4WHNDTXktdGpNbWRsYU0td1JDV2RVTE9ZeUNR?oc=5",
+   "publisher": "BigGo ファイナンス",
+   "date": "2026-07-16T06:26:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -618,28 +721,6 @@
    "via": "Google News"
   },
   {
-   "id": "9c9de3c510145b49",
-   "sourceId": "anthropic",
-   "title": "韓国政府、年内に「セキュリティ特化」独自AIモデル投入へ——Anthropic「Mithos」依存脱却を宣言",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnR0dycHhwZVhidktKeUx6alliQ24yMXVEbVgtQ1E3WG9XRkdSUjZOY1lOVmRBUTd4N2RsTEVnUnJ0UlVrLTA5RWZLRlhSVFhNR2s3ZklGM05Oc1MzdnE4U1VmUl9zQjg1aHVCLTdGVDItaU9p?oc=5",
-   "publisher": "BigGo ファイナンス",
-   "date": "2026-07-16T04:05:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "5075831005c980a2",
-   "sourceId": "anthropic",
-   "title": "Claude Partner Network認定パートナーのplayknot、Claudeの仕組みと企業活用に必要な基礎知識を公開",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wZDJYREFVS3I5MGFVNHgxblByRkRxa3FHZVpjU3hBNGh5RjQxRFdGRWY4OWRadFZiMU5XY01RRWFKQW1yQVFraE5hXzFjQXg1V2xTeUhDSnpVWFotTTl2b2xQb0RYZUNkc2c?oc=5",
-   "publisher": "PR TIMES",
-   "date": "2026-07-16T04:00:10.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "3cf230c2de57a4ee",
    "sourceId": "anthropic",
    "title": "「AIと壁打ちはもう古い」 業務タスクを任せる「Claude Cowork」の落とし穴：チャットとの使い分け方",
@@ -662,6 +743,17 @@
    "via": "Google News"
   },
   {
+   "id": "413def1d6bdb7b7a",
+   "sourceId": "anthropic",
+   "title": "JPモルガン・チェースのダイモンCEO、「AnthropicのMythosは個人に弾道ミサイル」とAI統制の必要性を強調",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwRUpvc1FQQmtsTU0xZVBpZG51SXg2MTktcmUxbm1zTm8yTjhGbVRhdFRoZmFqOGpkZE1RLTN1dVNzZVNIMm45X01ZYzU4cnNfNFR3VHRCc2w3Rm1LZzlQc2FCc2RKN2ttZlNqTENxaVRPUEVq?oc=5",
+   "publisher": "BigGo ファイナンス",
+   "date": "2026-07-16T03:26:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
    "id": "16303b87b9d2cb6d",
    "sourceId": "anthropic",
    "title": "米国の教師にClaudeが「無料」で開放された理由——Anthropic「Claude for Teachers」を調べてみた",
@@ -679,17 +771,6 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ibHBUNmhSTkxwQlJ3dzdKb0Zpcm8yZllBWU5TNXMwVzllRjRnR2x4TV9CRVlLTUlhaDJuZzZDRE1uR014TU5JVTVycWJWMTRuYUY0Sjd6c05odUxid3hlb2hjX1lEeEFmS1RV?oc=5",
    "publisher": "時事ドットコム",
    "date": "2026-07-16T03:16:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "71e3ff3c9764c11f",
-   "sourceId": "anthropic",
-   "title": "【7/29(水)無料セミナー】Claude Codeと安全に働く組織のつくり方 〜 導入前に整えるべき3つの土台 〜",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQSGJ0MkRPTTNMa08yM2FlSUlzcVFfMGxNNGludzl3MVdfdXdmQWdWWUhHOVpTTGYtanF1c3RkTmtVZkZ4QUxtWE5udWlNaXNBTkt2QzJiSXpGTXhzNmF6OWVXWC1OMUZkUXc?oc=5",
-   "publisher": "PR TIMES",
-   "date": "2026-07-16T03:00:02.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -739,28 +820,6 @@
    "via": "Google News"
   },
   {
-   "id": "bc7f44b85bdd0547",
-   "sourceId": "anthropic",
-   "title": "AnthropicがIPO前に融資枠拡大に向けた協議を実施 執筆 - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42eTN4V21hbGstXzFPMm9vYnhKTFJqV2lOR0xQMkJkSkxOTEF6UUZfclhVUEhYaXZlVUFiZ1BGOFJDWjZMNzBqUjJ0NGtFU3BhZHJKUlNkZlZjdVgzQlJ4NTBqelMxMFByWUVfQWxEQWhfRGdFUzBJ?oc=5",
-   "publisher": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-   "date": "2026-07-16T00:04:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "8e5de34d9ea6b3db",
-   "sourceId": "anthropic",
-   "title": "Claude for Chromeの脆弱性、8回のパッチを経ても未修正-他の拡張機能がGmail・カレンダーを読み取り可能に",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNamVaQUYxVjFHT1Q0TG1Vbk5QTDBKYjhLR0llbGVmV1EySHAyZDFsVXhjN0xzb3pueGNmdFFFck8xS2lqanREaGhYSGRTeXQ4andnNy0yZm1SNm1tVDRWcERwTVRvWU84LWg2d0ozUGpOQVZnX2drNnI0bDc0cF9EcFcyeklDS1BjOUV4YldhaERkakYx?oc=5",
-   "publisher": "合同会社ロケットボーイズ",
-   "date": "2026-07-15T23:00:16.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "ef52dbf7d8cebc0d",
    "sourceId": "anthropic",
    "title": "npmサプライチェーン攻撃は新段階に ClaudeやCursorを狙う自己増殖マルウェアの正体：開発者を狙う新攻撃",
@@ -805,10 +864,10 @@
    "via": "Google News"
   },
   {
-   "id": "5258795282abc752",
+   "id": "f43459e5a0c06e4f",
    "sourceId": "anthropic",
    "title": "【最強入門】Claude Codeだけでは大損…Codexで“地味作業”が消える神プロンプト7選（ビジネス＋IT）",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS05wNEItSjlXUzdTNGlxYW00YnI5NXNGTS1MU3diWjBScVVQQ2tMM1o0bzlkZG01NzFaTWloclhYUjRNLVJVY2VnZUxoeGxFU1BsdkdITUtEQUhocnE2aldlM3BWWjdUWkRJNExGZV9zQ2JNeEo5ZUdBWllMNDB1TGpEQzZuWDBO?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByM3h2b09UZEUyaHVINGV1ek1kZ3lIV0VMRWExajFVNGxzekFza0pQb0VKWjFid3Q5UTlsWUpibDJLVjJMLUZCY0s5SnRudnU1bXNLdTZ4V3RLcFB5VlhrYjZKbDNJYWlVRDRfYU8xUG1EelFyVS14MTVmUjc2dVk?oc=5",
    "publisher": "Yahoo!ニュース",
    "date": "2026-07-15T21:20:06.000Z",
    "excerpt": "",
@@ -832,17 +891,6 @@
    "title": "「AIに任せ過ぎ」を防げるか？ Claude「Reflection」を情シス目線で解説：セキュリティリスクも？",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zTVZpZXltQ3c2a0YyNnlBekFJMDJ1cTR6Q0RvcEwwQy1Jem1EengxV29fa1dwVkY4cGlLbDhVN0NMUmY0bGpERmJlOTl1amwxMjgtY2JRV2lsX1g4Wkw5ZXpHN0x0LXQ1QmI2Ug?oc=5",
    "publisher": "ITmedia",
-   "date": "2026-07-15T20:00:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "945cbcb552b14a97",
-   "sourceId": "anthropic",
-   "title": "アクセンチュアとAnthropic サイバー対策､丸ごと自動で",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU1lDcXUtUUNCZHVqRm5VTTVGV0JLWVlEWFA2cWV2VDV4d1N2eUxsYzVXR1NOQXBQMDlzRU5ibUw1cTVrcGFRcHVxUTVCeDhDQlRid1ZkVDFQWnBMZXU1LUNtRkhsNjBIR3U0a24wMlVWXzBMakdKTDVoTEJOSllzT3ZoMGZVRE9KYXdFZA?oc=5",
-   "publisher": "日本経済新聞",
    "date": "2026-07-15T20:00:00.000Z",
    "excerpt": "",
    "image": null,
@@ -904,56 +952,93 @@
    "via": "Google News"
   },
   {
-   "id": "b4c4d6ab007648bc",
-   "sourceId": "anthropic",
-   "title": "スマホもチップも作らない：AnthropicがAIハードウェア戦争で傍観を決め込む理由",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0taFFhQXVoU1FpNExwMmVJeVNLSTZhSG90TmRCc0phNkxlbkdCb1RKd0IxQWpNMmZNX1VvTXQydjNEM2Y5WEhJVjlkUWhxSDdzZEl0NTFObHFCcFIyNnNma25jN2E3ZGhicDEydWRpOWpHMkto?oc=5",
-   "publisher": "BigGo ファイナンス",
-   "date": "2026-07-15T08:15:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "9124324d28a714f2",
-   "sourceId": "anthropic",
-   "title": "Claudeに「人格」はあるのか？Anthropicが30万件の対話から解明したモデルと言語による価値観の違い",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBOUtzWnRlQm5LNmdwVUVocGtWWXc3SVpvcXYwTjRNS2V0bnZpNUZCeHhlTHVOejVRb2dPRkpuV2lCUXZMQTVyaHZ0cmxpNVdyX041OXpJa3RINHIyQ3FrcVNjX2J0UVFPOXpzeVc5MElvbnBG?oc=5",
-   "publisher": "BigGo ファイナンス",
-   "date": "2026-07-15T05:26:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "e9478c20c01219bc",
-   "sourceId": "anthropic",
-   "title": "6.5年かかるコード解析を20時間で完了 4.6億行のレガシーコードに挑んだClaude活用術（ITmedia エンタープライズ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kMXhTVVM5TTkwYUQ5LVZzSk1ieFJyMjBaT2VmVWZTTk9UWTQxWHM4dnJMaEJITHRHOEVVWXJXaUR1T2t6MmstMkgyOEFKOHJHaXFRTmRiRHppNkJpQnVQcmx5OHFTZllPUEZ4RnlfR1k3QzFBY0k3dVV3aTFNVUU?oc=5",
-   "publisher": "Yahoo!ニュース",
-   "date": "2026-07-15T03:00:12.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "98c2bc4be75a26b6",
-   "sourceId": "anthropic",
-   "title": "Anthropic、米K-12教員向け「Claude for Teachers」無料提供 「Claude Code」や「Cowork」も含む",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XUWM5bE54VnhwbjFBYlNWd3VCNDJSaThKVFVzLTlhNG84aTcxeUNWbXBPNTl2WWotNDhZenFuVC1aNENCUHhaX0NSdzF0dTY2Vlh6T3AyenpkQlZnN0YzMDNrNGR3NHVWTmtzaQ?oc=5",
-   "publisher": "ITmedia",
-   "date": "2026-07-15T02:25:28.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "f87dfbc8374a8111",
+   "id": "6fffeafffb0cb751",
    "sourceId": "google",
-   "title": "スマホを閉じても稼働するAI「Gemini Spark」が日本語に対応 Gemini有料プランで順次展開（ITmedia Mobile）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWkJKODZNbXJ3dFFVd2pWRjlHNVJHRms3anZubUljWWlCbkJINXRaWDFnVmhDcFFpNkQ4MDVzNW5XWjlkc3JWN0Z3cG9jY1VDZjJ1aEFVSVA0TmhWX1JXSFgzTUoxMkpsbnBfRm1lTWxuVDdpLURoUjBMcjFnbW8?oc=5",
-   "publisher": "Yahoo!ニュース",
-   "date": "2026-07-16T10:53:55.000Z",
+   "title": "GoogleがVidsに個人アバター作成機能を追加しGemini Omniで動画生成を強化",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ya3lHb3NEbkFjcWphR01GVEVJQ0VuallrVWE5NUl0UUF3YnUwcVB2RXFwckVjY2RZXzNhV3ctbjFvbzBFd2VyRERxWU9ydjNyVFpPM0toei1abjYyUS02cXd2M0p0SnFkakJWY2pB?oc=5",
+   "publisher": "Межа. Новини України.",
+   "date": "2026-07-16T19:16:44.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "328571f7586759c9",
+   "sourceId": "google",
+   "title": "AlphabetがGemini AIモデルの遅延報道を受け株価下落 執筆 - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YdjQzWXdqaTdDUzRfUUZxZHNBT0dRSzRscEloNmJaYUpHWlI5dTVaeXZPcFMxMEhWUTNMNy1nNlJ0RERfX1dzWnFoOWs3R0NOdGgtR2tXcDFUTlNNN3BJcHZ4QU8yR2FkdkxjLThYUjQ?oc=5",
+   "publisher": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "date": "2026-07-16T18:18:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "b39af1ce3bafda54",
+   "sourceId": "google",
+   "title": "インテル、Google Cloudとの提携を拡大しGemini AIを全社導入 執筆 - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yR3RIR0JadUxUNVV1b1RNQmpIVVJnTmFzeFpXNjk4SlZJeEI3al8xdWk2czFKVkJySjNYeXc2VzhHem9rRGFlaklIa1NGck53Y1NGOW9TWnJFdGtRREVGVF9LNGhUeGFtelE?oc=5",
+   "publisher": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "date": "2026-07-16T16:40:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "0bed04987e56b382",
+   "sourceId": "google",
+   "title": "より多くのアプリを検索に接続します",
+   "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+   "publisher": "blog.google",
+   "date": "2026-07-16T16:00:00.000Z",
+   "excerpt": "AI モードで直接、頼りになるサービスに安全にリンクして対話できるようになります。",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
+   "via": "RSS",
+   "titleOrig": "Connect more of your apps to Search",
+   "excerptOrig": "You’ll be able to securely link and interact with your go-to services directly in AI Mode."
+  },
+  {
+   "id": "34db8fbc5b98bcc2",
+   "sourceId": "google",
+   "title": "2 つの Google Vids アップデートにより、動画の作成、編集、主演を行うことができます",
+   "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+   "publisher": "blog.google",
+   "date": "2026-07-16T16:00:00.000Z",
+   "excerpt": "Gemini Omni と Google Vids の個人アバターにより、動画の作成がこれまでより簡単になります。",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp",
+   "via": "RSS",
+   "titleOrig": "Create, edit and star in videos with two Google Vids updates",
+   "excerptOrig": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever."
+  },
+  {
+   "id": "6f963e37220c5aea",
+   "sourceId": "google",
+   "title": "Gemini有料プラン（Google AI プラン）の料金・違いを徹底比較！月額1,200円の価値はある？",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oQVdoSlYyVDB3eGdhS1BncVRlYnNQWDZIaktTUTBSaVhEM1Z0d18zc0ZHVXc2WDFVSndvUnlZaDBWRHdfcG8wMEtRWl9sck1nZ3N4M0t5Zk1ZV0Q1?oc=5",
+   "publisher": "AIsmiley",
+   "date": "2026-07-16T13:04:54.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "4f84d58e1ca77e33",
+   "sourceId": "google",
+   "title": "EU、Googleに設計変更要求 競合AIサービスの「利用容易に」",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40OHRfR2pDMjhFZXVMY2JTMGE5ZmtoUDhHNFVHWmltejJ4Slh1bTNLbzdYOXU0UnBIcjFsOFB0Tl9TTWl3UEpNZkVvRm5FcTExOWdXWHFrWWtqUm0yUmt0WEc3SndWcmJDMF9KeA?oc=5",
+   "publisher": "日本経済新聞",
+   "date": "2026-07-16T11:54:30.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "d63ed317769ef2b3",
+   "sourceId": "google",
+   "title": "スマホを閉じても稼働するAI「Gemini Spark」が日本語に対応 Gemini有料プランで順次展開",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeUJoOUVtWUpxcDA1T3BmeEtWSHZzVFNmNFdCTFFHWWZubGFQcUVMc0VJaDFRTkRVdENmUFo0cU5tQWhQSGdDZ1NTenE3ZWx5REZOc2JKa1JLYkM4RS14blNTMmkzc0VnRklVNkpXQlIwSnMwWGpZZzYxSTVNUUhfOHR5OXpTZ1V4ME5kem84bVM4eG0wZ3cyaVhLSWpad0p2dDNBSmhrVzYyX2hVN1ZEYTFQQW94YlJiRjVOVXZUUUhNZWRxaEhORnpSUUx5d2I3UW81MXBwRzV1V2sxdkV2VFV2Y0N6QVXSAZcBQVVfeXFMTzdmZkExSldGYzZweUlaOFIwRTM4a3lNTFBvdE13T3hUb3NKR2U4UHNVTnZSX3JzMFNacmJnZWNtQklzZzhLMzlubllOYlRSRng3OHo0VV9KZkdDUmZqMGRZaHBYTFowdTh4dURJZENRcm8ycFk1MW5FNVUwSVhCNXNsdkRPV0plMDdhNjR6Rzhhc1RnY080cw?oc=5",
+   "publisher": "ｄメニューニュース",
+   "date": "2026-07-16T10:53:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -970,17 +1055,6 @@
    "via": "RSS",
    "titleOrig": "Our approach to bioresilience",
    "excerptOrig": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
-  },
-  {
-   "id": "cf4db18e1703e722",
-   "sourceId": "google",
-   "title": "予定調整も情報収集もAIにお任せ、24時間働く「Gemini Spark」日本上陸",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qQU04RXlhVXBRR3FlaENmQVR1eVpUeFNMRWwzdmtKZ180ZFpaQzQ0ZE9IbS10ekhRamRGd2oxWHgtRFBLbEQxa3hacVZQZXduWWVQTGZkOTI2WEZTaTJEcmFZTQ?oc=5",
-   "publisher": "PC Watch",
-   "date": "2026-07-16T04:58:53.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
   },
   {
    "id": "2ce032328ca3d6b3",
@@ -1005,6 +1079,28 @@
    "via": "Google News"
   },
   {
+   "id": "86cc7d68081b4510",
+   "sourceId": "google",
+   "title": "日本でもGoogleのオフィス・一般用途向けAIエージェント「Gemini Spark」が利用可能に",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEN1lVTU51Q3FZYkpjemlUejVXeUFFVGZuSGlsci1xbDFZM1psUFMtYmZlb1RBbzNiNVN3ekMyWFhpd05oZGg0R1R6ZFA4Yy1pM3BycDB4X204SUh2Zng5bVpOU19vbGVU?oc=5",
+   "publisher": "窓の杜",
+   "date": "2026-07-16T04:47:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "dcd9a97a982a1f9a",
+   "sourceId": "google",
+   "title": "グーグル、AIエージェント「Gemini Spark」を日本展開 24時間自律でタスク実行",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tR1hIUktiTTNYRkdidEp1blZCb09na1hQb1BlNTFtOVhyM2ZrSTNxVzVQbkR5bnQ1cUJlNEp3eE5lQ1E5TllNVGpKNGFHNE4weERMaGQ1cllTVE5BYnhaN3RqcjhWTUlrWVRwVWNGQmo5c2tIRkNwSnktYw?oc=5",
+   "publisher": "ニコニコニュース",
+   "date": "2026-07-16T04:42:17.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
    "id": "d18e6f656eec690c",
    "sourceId": "google",
    "title": "Gemini Spark、日本語で展開開始。24時間働くAIエージェントが現実に",
@@ -1016,34 +1112,12 @@
    "via": "Google News"
   },
   {
-   "id": "b9af8613e4781730",
-   "sourceId": "google",
-   "title": "グーグル、AIエージェント「Gemini Spark」を日本展開 24時間自律でタスク実行",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jTHNMcUtHenI4S0UyUXNWQ3hUOG8ySVRSWjF6dzJyM18xTE5VT1hnTWt0NVJackRqeVBKM2M3ZndsaGF0bWE0c1lKazhFdGZ1LV9ITw?oc=5",
-   "publisher": "ASCII.jp",
-   "date": "2026-07-16T04:35:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "df0eade5fa681b47",
    "sourceId": "google",
    "title": "「検索サービス用の書籍をGeminiの学習に無断利用」…米出版社・作家ら、グーグルを著作権侵害で提訴（中央日報日本語版）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpdzZhemxzVjFvY1A1NmJUV2UyeFZxRjB6NEpvMFFMdmIyMy1Cd3NtY0hWdG9vTXg4aUMwRFBDQmZVNEhyRXdHMW9BQVVmbUZoRkdiYnZrZ0h6ZXRtT3EybkF4LXVCdWRnSU54VWRFc2hickZqZ2FPY2MyN2doNTQ?oc=5",
    "publisher": "Yahoo!ニュース",
    "date": "2026-07-16T04:32:52.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "c79161d117d604bd",
-   "sourceId": "google",
-   "title": "Google Store表参道はPixel 11発表の8月13日(木)オープン 国内初・米国外初の直営フラッグシップストア、販売・サポートに「AI体験」も提供",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEbi1fTmhHVUROQWYwbnVtMnlaOEFCaDdiZnZwdVRsMFZ3QVBsMlN4bWJBcGhhNUxQNC0xYmdEX1RhOHc2VG9WOHlWMUtQU01BLVJEZzQwVnR0VExsSkN5aU1wS1BLdms1OTMyU2tlUWtxWl9hY3ZBQV83OA?oc=5",
-   "publisher": "au Webポータル",
-   "date": "2026-07-16T03:31:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -1082,17 +1156,6 @@
    "via": "Google News"
   },
   {
-   "id": "114e8d95ccbd189d",
-   "sourceId": "google",
-   "title": "ChatGPT、韓国月間利用者数が2,300万人突破…Naver検索の牙城揺るがす",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YR25mMENQbUVzb0RtdG1ydlVYbloybXpTRmE0U0phN3ZqcWthN2x1cWk5UFJiLUNpRnlORlJrYVdHNUl0RFEyVDhIOXpiaFZpMl84UUE3VGktcEdrNzRlTXdpZGNQR2Rlckc1bG8wVUxCUjBj?oc=5",
-   "publisher": "BigGo ファイナンス",
-   "date": "2026-07-16T02:36:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "294290f5518b2ca7",
    "sourceId": "google",
    "title": "Googleの24時間稼働AIエージェント「Gemini Spark」が日本語で利用可能に",
@@ -1110,17 +1173,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzVWI4RkNXV0FNcmpmUEJMT0NKNHBRM1dabEtickhvVGVTS0t3ZE82eV96VVNBM09zM0hMQWk0dTBMenRHNUR2RExLUWFrUXFnRTg5WVZlSHAwa2RuYkI40gFkQVVfeXFMUC1ZMExRdExUNUw0RFR1Nmt2TjBST2ZGR1NzclBoUG9oMXRQSEd5bi16LTdDY2tleFQ0Z0pTT1RFdERxVFJJX1ZtLTVjdVFqQ3oySzUzZ3BKNTdRbWNkTXBad25JLQ?oc=5",
    "publisher": "corriente.jp",
    "date": "2026-07-16T01:46:01.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "9632e791be6acb6d",
-   "sourceId": "google",
-   "title": "ChatGPT月間ユーザー数2300万人突破…韓国モバイルアプリで最大の成長",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94b0JRVTVpaVR0VDNrMTFVcldTSUN1T1JmRXhhSm0tWHdLN0RwZUgtb28wLWJXX3JibWRvekdRQmJ0YzkyN1dOMTNKMXlyaURHRXV4UlVXQzJaQVpMREwyVHdFY0duT2hOb2JFS1V4T3Rmb0Ey?oc=5",
-   "publisher": "BigGo ファイナンス",
-   "date": "2026-07-16T01:46:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -1154,6 +1206,17 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zS1IxR0pFYlRad09pTklhYU54TEM3SWhwSFZCQUM3Yk5LOXBTYm5peU1PNkpnN3MzRW9sNVp3NWpFMWhqeVk2VGNPbWFmZnNJMjN5Yw?oc=5",
    "publisher": "ASCII.jp",
    "date": "2026-07-16T01:30:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "99ce0ae7b5c60abe",
+   "sourceId": "google",
+   "title": "インテルとグーグル・クラウド、戦略的AI提携を拡大：Gemini Enterpriseを半導体R&Dの全ライフサイクルに導入",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbExJR2luYm9mM3RiaFY3dFRVMkoxb3dpa1gwWDJnOVNhRjhWbDVtUW93cnVCbEZ1clFfXzM0NExYVkxhWWZFWWx6RkI4R1NUdVZXRktKeHJ1UHdMbUR6Q1lxVmJIdm1sSUptQjNwU0xad1ZuSndFTzFtUzlqUzVJQURLN3B5eC1tdTI4cmlGd1pBZlNrblhUbzl4ZGJvU2p6YkhlSWExZ1RQbE9SYURqYWhhdjJDUkIxOUdDODhUbGFmQTRIWThEX3JLQkphZ09MT2c?oc=5",
+   "publisher": "TradingKey",
+   "date": "2026-07-16T01:16:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -1196,17 +1259,6 @@
    "sourceId": "google",
    "title": "「Gemini Spark」日本解禁",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlR1JPazNUaWpiZmpPRXNYZDNISUJmRkFoSXhVLWREeWRIeTIxOUhvMmVSY0t3dFdZMU9oYnNkM0ZXeDM1elgxdUhRUmxfTEhKSUN2TzVJTDBxY1Z5R3dJYkhqQk1xeWZCYUhYQg?oc=5",
-   "publisher": "jetstream.blog",
-   "date": "2026-07-15T21:01:15.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "7799c62f69433fb5",
-   "sourceId": "google",
-   "title": "日本解禁！「Gemini Spark」展開拡大",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5razJXdGJjblNiZUFpckc3YndRb1c5ZFpJYVVYczZPVEhGREJ1OTMtczQ0WXNjeVI4b0NkblJxYXoyMkZXVGhlS1JUc1lYQ1VhaVBKeFh4T1hrTGpEbUU2dnZIV2g2NkZ4SlVObklaOE4?oc=5",
    "publisher": "jetstream.blog",
    "date": "2026-07-15T21:01:15.000Z",
    "excerpt": "",
@@ -1291,6 +1343,17 @@
    "via": "Google News"
   },
   {
+   "id": "a6c8c53f815a4a90",
+   "sourceId": "google",
+   "title": "Google画像検索が25周年、Nano BananaでAI画像生成が可能に Pinterest風ギャラリーも導入",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OellDM2QycGFyMHRyRVN2M0xLVTliVHl1cF9veWhSMmM0LW0zaUlFa3pLdTVsMnlvRlZRVzNqa2dPZkdjektrVTFEcW10TlhNRTBLVUl4SEJwT3NheFZrTnZWOEtjMXVTT0I4TWs0bU04ck9p?oc=5",
+   "publisher": "BigGo ファイナンス",
+   "date": "2026-07-15T02:26:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
    "id": "4f94d546782f7a0e",
    "sourceId": "google",
    "title": "米出版社と作家、グーグルを提訴──Gemini学習で数百万冊を無断利用か",
@@ -1335,63 +1398,6 @@
    "via": "Google News"
   },
   {
-   "id": "51c65ce778f81bd3",
-   "sourceId": "google",
-   "title": "Google、「フルスタックAI」で韓国企業市場を照準…Samsung・Olive Youngとの協力拡大",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SbVlzektFcmVxMC1QVkYxdnMtdUVHbENPaXJWMHY1MXVVaHNVUXhhZkNudVdGazQxQm1MVmozN1BiUG1hQmtUR0RCNXZTR0dqOTFOYi1xZzJlLVo5QUpoajVTMEFmcGRQM0VXbXM2SUVPdkx0?oc=5",
-   "publisher": "BigGo ファイナンス",
-   "date": "2026-07-14T22:15:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "f34b3453454c0ec5",
-   "sourceId": "google",
-   "title": "ビジュアル検索のイノベーション 25 年を祝う",
-   "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-   "publisher": "blog.google",
-   "date": "2026-07-14T16:00:00.000Z",
-   "excerpt": "Google 画像検索は 25 周年を迎えます。ここでは、いくつかの主要なマイルストーンと、ビジュアル コンテンツを探索および作成するための新しい方法を振り返ります。",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp",
-   "via": "RSS",
-   "titleOrig": "Celebrating 25 years of visual search innovation",
-   "excerptOrig": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content."
-  },
-  {
-   "id": "fca6641705c96e85",
-   "sourceId": "google",
-   "title": "ベトナムは、教育支援におけるGoogle AIの活用において、東南アジアをリードしている。",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTWFGa1ktNnpiT3lrN3lTZ1NjZ2lZRVRVYlJSU0NIOUJLd2ZLRUxBZmh2QWVGLTQ5ZE1Za3czVThXYmdsOWZRSFRNd0Y1Z19PN3ItalRTdS00amttYW5VLTJFa2xfYzlEOTlRbzVUT1Z2dVhpemc4UDE1SlY1cjllX08xT1hCTDcwNjVDdm04VzJIaE1neXZN?oc=5",
-   "publisher": "Vietnam.vn",
-   "date": "2026-07-14T14:38:11.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "622bba823944cc8d",
-   "sourceId": "google",
-   "title": "Geminiアプリ - 最も検索されている人工知能アシスタント。",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWW5GR3hxLVRWVXJISG00N0ZzWUFzQ056dkRYaVZMVTZUdW1qVGtDRHc4aENMSnMzVzJZdjcwVUFFRzdGWVBLOHRMZXk3eVJTdXpTY2lKUmg0dDBCcFMzT1ZoWGJjb1VTZ1oyaW5kWXBySXhFNVJPdHNCUkM4bWFEZmJWR2dSX2w1dWdpS01CRUc4M1N1?oc=5",
-   "publisher": "Vietnam.vn",
-   "date": "2026-07-14T08:43:25.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "cd7e73f0b4a7411c",
-   "sourceId": "google",
-   "title": "Gemini 3.5 Pro、7月17日一般公開の噂もスペックは未確定――開発遅延の背景に「事前学習からの再構築」か",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MRmozUVFTa3ktQWhnRlpOYjZzU3U3RFNMSXptSGNLa0F2QkpwVG5ac3dIWE9wX1JNQ0NORHRLSFU3UU4zd3BudW9hZ3RfS1lKb3pPNzJ6clBQOWhZQlNHb2lXQdIBaEFVX3lxTE9hMmlfZGtsZXRYUWhjaVhFUmZzSjJiNENmNG5uZUJBd2g1R016bTRfMWh5eHIyMENwbzVrdFFtLUx0dzZ5N2lmRGlOVzlpRW9vMzNmWU1nVVd5dXlFcllEd242UnpfVGFM?oc=5",
-   "publisher": "財経新聞",
-   "date": "2026-07-14T07:23:25.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "effe7086404e6fd9",
    "sourceId": "microsoft",
    "title": "GitHub Copilot CLIがアップデート、プランモードでのファイル編集をシステムレベルでブロック",
@@ -1431,17 +1437,6 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qUUVrNGVjZW9Hc1JLQzI0b185RnkxbEkwX1JQbW83UmpXV2haamdYd2IydnNkUExVQjVRRDFiQnUzUG53SXB2dmtOYmZWOVBBWHNDeG1KdW94SFZnVmM3aU1fby1IckZa?oc=5",
    "publisher": "マイナビニュース",
    "date": "2026-07-16T03:41:05.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "7679a54b7ca850b1",
-   "sourceId": "microsoft",
-   "title": "「Copilot Keyboard」Copilotと会話できるデスクトップマスコットを搭載したマイクロソフト製IME",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mM19fcWQxWFl6VmZCWEFfdldGV21oSEdEeHU2dUZGRjdvemlqX2xka0kyRVkwYmxRNWhXSG8wT0U4c1FiVm1QMTlsMm0tYkFsTnJUZjJPWVBaSjY4WjZ1MGdiZEppdTRYT1VyT2l2Zw?oc=5",
-   "publisher": "窓の杜",
-   "date": "2026-07-16T03:05:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -1535,17 +1530,6 @@
    "via": "Google News"
   },
   {
-   "id": "116e5d9e5ba01339",
-   "sourceId": "microsoft",
-   "title": "【イベントレポート】「情シス Update Day 2025 in 東京」 ソフトクリエイトが開催 (1/4)",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14UTFFRVQwNTZPWFdkU3BVZ1g3bFRYdDI3OUtWN0FaOHZkNWlKa1NqUmY5bGhuaXJJMXBLRXJKTEVfaVY1UlpKRTU1QzZQNTNtcW9Id1ZmUmVNQQ?oc=5",
-   "publisher": "ASCII.jp",
-   "date": "2026-07-14T05:00:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "42d50b5ec1202976",
    "sourceId": "microsoft",
    "title": "富士通ラーニングメディア、新規コース「【集合】体験！Microsoft 365 Copilot」提供開始",
@@ -1574,6 +1558,17 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDSFQ5anZVcG1qaXBsM0JoeHlIZ3ZIcXo1WEFqekhsQUw2eWg2Qmh3NlQ2X1lnRTlTc1ZhVlZ3RWpBUy1Uajlqd3ZvZDhpTG9xWGNZ?oc=5",
    "publisher": "ZDNET Japan",
    "date": "2026-07-14T00:08:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "36ef6d3ed53b810f",
+   "sourceId": "microsoft",
+   "title": "Copilot Studioがここまで使えた 大林組「作り込まない」AIの成果：問い合わせ対応月1580時間削減",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRbUtFd3g2RHRMS2UybXk2SXRCR2k0M20zQWM2MjNiU2NjWm9QQ2hKMWM0QXpfRUh3enk0V0U2OHdSQlNEM05KQWMxQ3E5OXZmTWhqbVJTRFVJaUZHMFNOa1p5c2ZMY2FUTnAzdw?oc=5",
+   "publisher": "ITmedia",
+   "date": "2026-07-13T20:00:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -1766,6 +1761,17 @@
    "via": "Google News"
   },
   {
+   "id": "65634b1c46885fa1",
+   "sourceId": "microsoft",
+   "title": "Microsoftが描いたアプリなしのWindows――Copilotだけの世界",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzNsczA4M2l0OS1OMHFqRU4xUEtjM1VfWElEX09UVWxxYk1NUy1KOVhUV2hUazBHMzNGR2lIbEJPMExIVjNYZExuUnAzc3ZrVXVkeWFlZXRZSVFpSm5WYktKeGxocVEzQkpuV2pSQWVUQm04MTNZUFZMQUNlR3FTVEdzcFJLaTdQZVRzTg?oc=5",
+   "publisher": "Korben",
+   "date": "2026-07-03T07:00:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
    "id": "1968f4b0347e9308",
    "sourceId": "microsoft",
    "title": "Microsoft Frontier Company: インテリジェンスを強化して保護する AI エンジニアリング",
@@ -1779,22 +1785,22 @@
    "excerptOrig": "The pace of AI adoption is moving incredibly fast. Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business. They are now concentrating on delivering measu"
   },
   {
-   "id": "2026779d2115b738",
+   "id": "7a1d49183eb6183a",
    "sourceId": "microsoft",
-   "title": "CopilotからAIエージェントへ マイクロソフトは企業と組織をどう変えるのか",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4c0IwS0xrMF9zUFFUWnB3cEhmRHVQdzRtb1JDdm03X0VaVy12aUktdlVvN2lEWGVfNWFTSnAyUFo5SThuTkdHcnc1VXVvV0hHNlZrUHpWeHhMM1cxcm9PYVlySnBRVEJXcWhfQw?oc=5",
-   "publisher": "日経BOOKプラス",
+   "title": "「Microsoft Excel」の「Copilot」に多くの新機能、ピボットテーブルも改善 ～2026年6月更新",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4cy1KSmJIRHcyZHVYc0N1dVdYX09uVWZWQVQ5RkdzbHdoTk1EZDktOFRMbk55TEVfdlBTRW9qMnZIYUw3NjhFZGUtQWluZ2V5cVFxSklHVXFrOGJIZmNPR3VyMzNJMlZ3?oc=5",
+   "publisher": "窓の杜",
    "date": "2026-07-02T07:00:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
   },
   {
-   "id": "7a1d49183eb6183a",
+   "id": "2026779d2115b738",
    "sourceId": "microsoft",
-   "title": "「Microsoft Excel」の「Copilot」に多くの新機能、ピボットテーブルも改善 ～2026年6月更新",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4cy1KSmJIRHcyZHVYc0N1dVdYX09uVWZWQVQ5RkdzbHdoTk1EZDktOFRMbk55TEVfdlBTRW9qMnZIYUw3NjhFZGUtQWluZ2V5cVFxSklHVXFrOGJIZmNPR3VyMzNJMlZ3?oc=5",
-   "publisher": "窓の杜",
+   "title": "CopilotからAIエージェントへ マイクロソフトは企業と組織をどう変えるのか",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4c0IwS0xrMF9zUFFUWnB3cEhmRHVQdzRtb1JDdm03X0VaVy12aUktdlVvN2lEWGVfNWFTSnAyUFo5SThuTkdHcnc1VXVvV0hHNlZrUHpWeHhMM1cxcm9PYVlySnBRVEJXcWhfQw?oc=5",
+   "publisher": "日経BOOKプラス",
    "date": "2026-07-02T07:00:00.000Z",
    "excerpt": "",
    "image": null,
@@ -1891,6 +1897,17 @@
    "via": "Google News"
   },
   {
+   "id": "fda2cdc0bcaf99f8",
+   "sourceId": "meta",
+   "title": "メタ、新AI画像生成機能を公開数日で停止",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmUU1ZYkh0NUhkZlVZNkh5OXpOaWo5MnVNaVdianc1N3RKeGpIR25zVkhHWFJSdU9QR3NRLW5ndHkzcUg2UHJ0X1hn?oc=5",
+   "publisher": "映画.com",
+   "date": "2026-07-16T06:00:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
    "id": "18ddd5515d242491",
    "sourceId": "meta",
    "title": "産休・病休取得をAIが「低生産性」と判定し解雇、26人がMetaを集団提訴",
@@ -1967,18 +1984,6 @@
    "excerpt": "",
    "image": null,
    "via": "Google News"
-  },
-  {
-   "id": "86464ebe3f9c5daa",
-   "sourceId": "meta",
-   "title": "メタ従業員がAIによる差別的な解雇を主張",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtaEdEQmZYNWxFZ2ZjSzFVMW1SeEdtSWR5TW1MVnhMT2xGdjBKdVNEMWVpYTJ4NG9fVExkZWdMWmsybFlYZFh3c1Y5MUdQNUdWcHc?oc=5",
-   "publisher": "時事通信ニュース",
-   "date": "2026-07-15T11:25:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News",
-   "titleOrig": "Meta employees allege discriminatory AI-driven layoffs"
   },
   {
    "id": "380c06b509179917",
@@ -2064,6 +2069,28 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jRFc0YW82aVY1eEdSWTZseHpma0JvOHdqeThrYk9lRjVjY0V0YzZHbE84dzdsWG1XdWE0Y1pNNl9NNnF4R2RNN3JuUmZrSEMzbWc3cUF2dlE4elpkeWk3YUx1YWM?oc=5",
    "publisher": "Impress Watch",
    "date": "2026-07-15T03:36:28.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "fa17b530b872f459",
+   "sourceId": "meta",
+   "title": "MetaがAIを用いて不当に従業員を解雇したとして元従業員に訴えられる",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcmpmZFhmS2h4NVhXUy1DY0psS3laTTIxVXAxeS0zcTZHQ3M0aGdtLWZ1SDlHbVhmQmt5QkpHWXZfWHd0MTJ2ckxmS0tLZWVZOElDMnRMQ0pJV1BGVU1tRGFNN0hSVl9lMGVVbHVoTDhLU1lwdFQ4dFMtcmJ2UWdUeQ?oc=5",
+   "publisher": "GIGAZINE",
+   "date": "2026-07-15T03:16:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "3f6810d39af1cbb7",
+   "sourceId": "meta",
+   "title": "日本で販売中のスマートグラス情報まとめ、用途別のおすすめや購入時の注意点も解説【2026年7月時点】",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qb1B1Qmx2dTcxaGdETHJ2eE9TY1FiVENLZHNLLWJ6YWFLRVdBd3RnanNSR0ZWcTZObTl1N3VETmhSQ0FBcTI1b0hUaUktS29QOWVmZ1h5WWExMnNwWFo1ZXg3U3l1MzBab2tnUUtReHc5VzA?oc=5",
+   "publisher": "Mogura VR",
+   "date": "2026-07-15T03:05:47.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -2256,23 +2283,34 @@
    "via": "Google News"
   },
   {
-   "id": "9da3322637b2ead5",
-   "sourceId": "meta",
-   "title": "メタ、週間15％高でM7首位 AI計算基盤、2027年14GWへ 期待先行か再評価の始まりか",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1hjZHVGeEFHdDhyeDlhcVljcWVydVhSd1l6M2c0cnRiSzV4azNIX2RWdHFKcnZ4MEdSS1c4YmlBWjg5aE1SRTlGRXlfREY4SThITGMwMXp0VlFVVW94VWhoN2pEdnlrSVdqWmNsS2Q3Z01vaHZ4SjQwcl9oWHdVZ0FPRnBKYlRnNllGc1c2c2FiNkxocWlLZ3dHa1NuRXlUZHZNSUNxelpsZXRHSjlweg?oc=5",
-   "publisher": "Moomoo",
-   "date": "2026-07-13T12:25:59.000Z",
+   "id": "37058c34ecf6149e",
+   "sourceId": "xai",
+   "title": "SpaceXAI、AIコーディングエージェント「Grok Build」をオープンソース化（窓の杜）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zYXd2cWtIN2JBNEFPMGJlQk5STWd6YzQtcHpJaVB3S0FpRWk3THNFZU82b0s0engwR19GMGltemlTRXYzVXI5bjFxdWpvZUZ6REZaZXdLdlpENXZ6Sk9GT29Wd3d0a285RzctSzJFYUQtZDZwVGdhbU1pczVpOE0?oc=5",
+   "publisher": "Yahoo!ニュース",
+   "date": "2026-07-16T19:15:27.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
   },
   {
-   "id": "fde8f4d0ff579805",
-   "sourceId": "meta",
-   "title": "AIラリーは終わっていない、シティズンズがメタのクラウド参入と企業支出の追い風を指摘",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FakxmNmtpd3FyMzJ4N0Fza1RDRGxwRzFDZFpGd1g4X2RQdTZnOFl6bUItdjZsRDNhNVQ4WTB4OGRERUQ1clZyYVNNWkdNSDhGMFRMdTlvcC1hT0V4OXhPcl9oaEtMRG1QOGJxbnBBMVAzV2NL?oc=5",
-   "publisher": "BigGo ファイナンス",
-   "date": "2026-07-13T12:05:00.000Z",
+   "id": "06b6f99d5132f916",
+   "sourceId": "xai",
+   "title": "Xが収益悪用のクリエイターを排除、改良Grokで盗用を検出",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mRmtkY3dmdWFiZll5b2NBNzQ0SUxta3pUTVh5OWdJRXFPeWd4Y2RJSWRuMTE2QWZqdjVkSzdFZlFFamppaW5kUXlYbUtkMm9EU0hCMnVLZlJ4REFwVWNvbVB4TGktb2RhNV9RZC1sYw?oc=5",
+   "publisher": "Межа. Новини України.",
+   "date": "2026-07-16T17:42:25.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "df55a10ff72b8625",
+   "sourceId": "xai",
+   "title": "Grok利用制限が全リセット！ターミナルAI「Grok Build」オープンソース化 (PC Watch)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa0JhSm13b2NGdnk2aXl2OVpCbjVWd2o2RVVReGh2VHVEYjhwcTQ2UXZaOTRyckgzWF9Ib1dhTGs0QTEtbmFjdDNCc1JxSVF4UWdGRjF5VGFjTURwaXdzbENNblVEMC1PaUVQMElURVJOTWVwWVE1VnluYVlBUW52ZndTTUw1S093VjRyU21n?oc=5",
+   "publisher": "Yahoo!ニュース",
+   "date": "2026-07-16T12:49:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -2295,17 +2333,6 @@
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95UDdsdHN5cHpEMnpVaVgwNTVfcGtZTVFsU3R5Um1mUFBha3BHbzR3dDFiUnotQ2hUMlFsLTUxYWc1SDF3eDZfUndQQlBfaGstUkRkSmxGOE5jd1IwaHdXZ2RrUQ?oc=5",
    "publisher": "PC Watch",
    "date": "2026-07-16T10:20:35.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "8e897c25973157df",
-   "sourceId": "xai",
-   "title": "Grok利用制限が全リセット！ターミナルAI「Grok Build」オープンソース化",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IeE9FRkpsam5fS2gwMWVUc3NENk5lZHF1eTh5bnNFbE8zNktJQkxydDJ4OTZlYXptdGJIMDc2R1p2dDQzTUVLT1ZBM3NuSl9INXNWT0RDTTdVekI5c0NncURCUWFIajJNNzJRbHprUGE5MFdD?oc=5",
-   "publisher": "Excite エキサイト",
-   "date": "2026-07-16T10:08:16.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -2339,17 +2366,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12Q1ZPQnhycXNWS05HSkdYSWRZTVNacUdmQXRZdXVhRG9VaVJQUlZCN1RuM2d0UjBGNlZCQ243aWl5eU56eW1pRWg3U3NGd2NEelJlZ3EtX0xKVU9kUDB0d0dwVVg?oc=5",
    "publisher": "Impress Watch",
    "date": "2026-07-16T03:39:42.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "3a6f75ec659dbaf9",
-   "sourceId": "xai",
-   "title": "SpaceXAI、AIコーディングエージェント「Grok Build」をオープンソース化 データ送信問題を受け透明性確保へ",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wclBuQy1KQTRtUXVpeTBMd3o0MkZjSW15SVdhSjFBUF8xYWJzR09OakZPYmJaU25oRDRLMl9fLWtTUUpGbGpnMURKbFVLMC1LUkR4eWNqUW1aRlFkRHk2UmJmdnFxMGFETTFaRVlhdnhsS3dZ?oc=5",
-   "publisher": "BigGo ファイナンス",
-   "date": "2026-07-16T03:36:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -2394,17 +2410,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93NWVzd0JKVWU2Vmw1ajVZX29YWFQ2RnpxbXF5b0ZET1otZWZoRFF3NTFCN1VnZU5rbHcxLXU0WW9LaWtEZXBlQWFkWlFzX1ZoSTZxeWNwdjlxOGxIU0tRSmlFaE1PaHQzUEZ6VnhOZk9Ed1NU?oc=5",
    "publisher": "BigGo ファイナンス",
    "date": "2026-07-15T07:05:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "209f804cd22e27cc",
-   "sourceId": "xai",
-   "title": "xAI、移動式発電会社APR Energyを買収 AI向け電力確保を加速",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLVA4XzE1YWF5Mm5Qc1o2WHJjd1BoRGdRN0s1YTJoaUFIUmFFNTVaV1BUQUMzZTdVYmRKMnJsRzEtU3U3QTg1bU5yaE5ZLTVJbEt0VE03bGQybzRod3duYmUyUDJOR0ZwWUMyQTgxdExmV25mTmhjU1NYa3MtOW5rSnNXMG52NWwxa1Zicm1kTFprQm45cEZ2dzJsY3dTQWYxbEg5ZW9rTQ?oc=5",
-   "publisher": "디지털투데이",
-   "date": "2026-07-15T05:56:04.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -2469,7 +2474,7 @@
    "sourceId": "xai",
    "title": "SIP電話通話",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sM2cxMEMtRFhZdG1xMXctZms3MktEanlOb2xfNDlUYXFTeFdrcmxnRHVWS0pSMm53X1FIZjBSV2FCYzFEQTY2YUUwVHZUYWhLdTVtenpPRGxWNVdDbElXdjVCN2VjYXdKTmg5WmUwenZlSEJnMFY2cQ?oc=5",
-   "publisher": "xAI Docs",
+   "publisher": "x.ai",
    "date": "2026-07-14T07:00:00.000Z",
    "excerpt": "",
    "image": null,
@@ -2516,6 +2521,17 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VQ1NxQ1lkZk9Bcm56dE5URTlyMndxLXFjTmdvSFpISzlzai1PYXFnc2t5cWFpNldXeW5nSmFhaUZJQl8wWWtvRFNxeU10dndKYU9ZclVVN1VOTWpqZEgxVXdjTm1mVGZ1RC1n?oc=5",
    "publisher": "GIGAZINE",
    "date": "2026-07-13T04:10:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "d65c4e3ff33fc14c",
+   "sourceId": "xai",
+   "title": "Tesla、日本で車載AI「Grok」提供開始 ベータ版は追加料金なし",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS3NwUFEzLU1wbXk4akpHaEt4ZjdkNW5yNzhmTFRGeEdGb2Y2ekVpSDhYREhVamUzTWhaaWVuXy1QX09hNGd5VmxWa2hCMVZ0dFhudUhvLWNDYVNBVW5BMkFmWVhobXVYazVKOUwzNW9JaTc1MlBGQmZvNlk4SVNJN09taC16VXJPMHNUeDNjbGI5enpZX25HdkVEVlFvVWNOQVZBaDFqRzlsOFA4Mm8ybUVkaGNOc3l0T3c?oc=5",
+   "publisher": "디지털투데이",
+   "date": "2026-07-13T01:39:59.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -2708,29 +2724,6 @@
    "via": "Google News"
   },
   {
-   "id": "5cec10d338eb5831",
-   "sourceId": "xai",
-   "title": "テスラ、日本でEVに対話型AI「Grok」 走行中の情報検索しやすく",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05akFjT0VVMURDSWI1ZmxKQzZaNmNzVDF1OEJnWXo0NXAxXzh0VnZKdDFVblJHRDdvZ25kWlNGRldpNmpRaUpWYVEwYlVKQzhwUEdmZjBUazFMVkFSY2JUNXp5eXJiS3V2T0hCQQ?oc=5",
-   "publisher": "日本経済新聞",
-   "date": "2026-07-09T17:00:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "0eecac8cd86b278b",
-   "sourceId": "mistral",
-   "title": "Robostral Navigate: シングルカメラ AI ナビゲーション",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5",
-   "publisher": "mistral.ai",
-   "date": "2026-07-16T13:30:52.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News",
-   "titleOrig": "Robostral Navigate: single-camera AI navigation"
-  },
-  {
    "id": "ff1e58f73d6e127d",
    "sourceId": "mistral",
    "title": "インシデント - Mistral AI ステータス ページ",
@@ -2809,6 +2802,18 @@
    "excerpt": "",
    "image": null,
    "via": "Google News"
+  },
+  {
+   "id": "0eecac8cd86b278b",
+   "sourceId": "mistral",
+   "title": "Robostral Navigate: シングルカメラ AI ナビゲーション",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5",
+   "publisher": "mistral.ai",
+   "date": "2026-07-08T14:15:10.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News",
+   "titleOrig": "Robostral Navigate: single-camera AI navigation"
   },
   {
    "id": "4e328cf24122d8d0",
@@ -3179,6 +3184,28 @@
    "titleOrig": "Why am I hitting API rate limits, and how do I increase them?"
   },
   {
+   "id": "d533203f02c61758",
+   "sourceId": "deepseek",
+   "title": "3度目の「DeepSeekショック」起きるか 香港IPOブームに差す影",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tb3JUZ1M1Y20xN2lvMG04S2lVd0M5ODd6T2pIdDFkQWRIY0F0cE8wdUxERGNHYmFXNjIxTTduVTl2Y1lnUTdKWHB2a2hUdjVHRlF4QXd0VEVtMkdSaEN0NUQwWGJYd1l1dV84UQ?oc=5",
+   "publisher": "日本経済新聞",
+   "date": "2026-07-16T19:30:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "61a23228828153b3",
+   "sourceId": "deepseek",
+   "title": "安徽コルン子会社の投資ファンドがDeepSeekに29億人民元を投資と開示し企業価値を約3508億8000万人民元と評価",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nWVFMRnk0dWxseHhXTGx0b0FuQml0TUV2emE5QlVac09LdkNkSURxbl90Sy1mMHdsc1VRdVdRTzJjb3BycGhET05fSGFjUFJMaHZaTjRKZ3JRTXk5ektmQ21EOUtXNU5EX0VB?oc=5",
+   "publisher": "Межа. Новини України.",
+   "date": "2026-07-16T15:18:12.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
    "id": "5f0f7426b63897ec",
    "sourceId": "deepseek",
    "title": "DeepSeek、再び1兆2000億円の調達計画 ロイター報道",
@@ -3196,6 +3223,17 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rOW5mR05FeGhsQktOa0FGUmthbG43RG5kbng3QXlDUVpKNlF2ZmZBMVRiMjhpc3hxSDczZW9lUktvWk5qdDhtd0lXVVg0S240YXY0SFNueTJCSER0OWFvVGkzblJwVzJFSFZ3YjRaQmZhemRy?oc=5",
    "publisher": "BigGo ファイナンス",
    "date": "2026-07-16T11:25:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "563dea390e01be09",
+   "sourceId": "deepseek",
+   "title": "DeepSeek創業者・梁文鋒氏、資産360億ドルでAI大規模言語モデル分野の世界長者番付トップに。初回資金調達510億元が正式完了",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85RXE3RW91bWhzd1B0QTRoZW5tOUwxYkU4dklJU2FtdzYxT1FSVUJRYUxJaVVvWERTT3Y1dFJrRVNJQnpDRVZuSEYxdFY5bjlDTWcwb2hwSElIMWgwWkwxNlZJMTBJaG0zeVpzSnZVYl91VHJ5?oc=5",
+   "publisher": "BigGo ファイナンス",
+   "date": "2026-07-16T10:06:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -3317,17 +3355,6 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR2JXckpJNExoV1dhdmI0U3A4VV82eC1mRXdTYS1QcWt1ZEc0TnBnQ2JidnpEb2pEcjNOSVFOcmF4XzA2WWJyUjA3SmM4YlFOeEN6cDkyWC16MkVwMVVKQlp3Nlhwc0NiMEVwRWtiRGpHLXJFMzNQUkMwMmdWd1FNRnRSdEV1SVN2ZE5VVEh4aUM?oc=5",
    "publisher": "Vietnam.vn",
    "date": "2026-07-15T08:55:56.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "b9f06ce8ee73d273",
-   "sourceId": "deepseek",
-   "title": "中国AIアプリ上半期レポート発表：豆包（Doubao）が月間アクティブユーザー数3億8200万人で首位、千問（Qianwen）は前年比58倍の急成長",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMRWVNT3VEQ3VxcnZrU0VfazI3YXZwSnloOWFMQ0wySFRXQUpJQkpEYzBFQlpmekdFTWVqWHVXbks0SVQ3RG40YmtoXzNMbVl3dTRmTXYtc0RCYU80cVJ1d05ST2UyVGFkY2hSMjk4Nk5oei1s?oc=5",
-   "publisher": "BigGo ファイナンス",
-   "date": "2026-07-15T08:25:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -3465,6 +3492,17 @@
    "via": "Google News"
   },
   {
+   "id": "d3e886f9639c2d5e",
+   "sourceId": "deepseek",
+   "title": "習近平主席、WAICに初参加へ——中国がAIエコシステムの主導権を宣言",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fNG9Xb2l1bHdGX0x1aVZpT29NblYySGNYZ3o2cjZiTVhmVllXRmFzNk1UMS0wSEQzZFBwVzhlaVluaDl0dzNXNENEM19fRFBYRkVmUUc3dHR2cjl3RGV4emNySkY0YWJFOGNaZWEySERCWFFM?oc=5",
+   "publisher": "BigGo ファイナンス",
+   "date": "2026-07-14T22:35:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
    "id": "3620c3009b1ddd59",
    "sourceId": "deepseek",
    "title": "大解剖 DeepSeek-R1の仕組み",
@@ -3482,6 +3520,17 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4teFdZcWphNVN4Q2Z2R044cENmSHcyb1E2WVJlMWVmNjVsSDFfRFZROGQ3VmlSSF9Pb0pQLTV5OWZUUGRIc3phYVEyalY4UVFLV0tCR1VCTXhFLWFOeEhPTmFIMklRY25iR3pDN2Q0T2FYZnNk?oc=5",
    "publisher": "BigGo ファイナンス",
    "date": "2026-07-14T16:35:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "669d4ac2b8891c7d",
+   "sourceId": "deepseek",
+   "title": "中国AIスタートアップDeepSeek、年内のIPO申請を視野に準備－関係者（Bloomberg）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYUGVYMDFlQmdjU1JOZjhTRUh6X21DYTlBQmg3Mk83aGw5WEROVmZmSnVpOG1Ib1RpLXZRbnI3aGt3N2Ftd3JvN3RUMFVjWWZQZDJIT2ZMZDg2WXRqZG1FQmt5YUI4MHplb21Sc21hZjZGbDFxU3hwNGQtSEphX3c?oc=5",
+   "publisher": "Yahoo!ニュース",
+   "date": "2026-07-14T14:17:07.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -3553,11 +3602,11 @@
    "via": "Google News"
   },
   {
-   "id": "eb7c30ac4d73fe5f",
+   "id": "6e3faf0d36c3c967",
    "sourceId": "deepseek",
-   "title": "中国DeepSeekの梁文峰氏、AIモデル開発企業創業者で世界一の富豪に（Bloomberg）",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSmRtbkZXekpIa2dYXzdabjJzZG5ZSjJzRnZodllCN1dNVTd6b2hZd1AxRVJ3YzJTV1dfckZLSkxScWdxNU40cEZwczJoWFN6TnJFMWMzcjR0eW5sS0pKX1RORDFPZzFmQ0dTSHJ3MDJkOWZIMVl5NFU2dHRGTmRYcnZDT0pXVzly?oc=5",
-   "publisher": "Yahoo!ニュース",
+   "title": "中国DeepSeekの梁文峰氏、AIモデル開発企業創業者で世界一の富豪に",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vZ2pRTzNXZENyU0RfcmVFTXFGdjdQUGM4bFk1VXlTVGdES0taTXFlTDBGTWk1cWFwalo1dS1SQnozZGFGZ1hEZFNUeTJkdlI3Y29PMnZZZGR3eTVoSElkVUk1V3JtaXpqX1dwZjk4YkFjanl2TEJN?oc=5",
+   "publisher": "Bloomberg.com",
    "date": "2026-07-14T07:23:52.000Z",
    "excerpt": "",
    "image": null,
@@ -3575,48 +3624,16 @@
    "via": "Google News"
   },
   {
-   "id": "58eb5fa246bb24a0",
-   "sourceId": "deepseek",
-   "title": "DeepSeekが年末にIPOを準備、評価約710億ドルで約15億ドルを調達目指す",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TUmN1cThPU2Mtczh1QTdETmExb1I1NllsT0FLMGtHM1kycWtONEt2cVh6ekE2UXNNN05mVWhPN05FZU82dGo3QnNTWDMxQ0lnYVc0cV9ielJub190Tm1qcTFDN2J3Zw?oc=5",
-   "publisher": "Межа. Новини України.",
-   "date": "2026-07-14T07:00:00.000Z",
+   "id": "366c848c14691495",
+   "sourceId": "others",
+   "title": "NVIDIA Nemotron 3 Embed が RTEB で全体で 1 位にランクされ、エージェントによる検索が前進",
+   "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+   "publisher": "huggingface.co",
+   "date": "2026-07-16T16:01:21.000Z",
    "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "177a4afb9fca1513",
-   "sourceId": "deepseek",
-   "title": "Claudeを解約する米国企業が続出…中国製AIへ乗り換え、米議会も問題視",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5odkFHM080R2ZOcFNIYUxYTjBOZzhBcWRVNGpaNnZlWVRsdkhRVE5LbUxsQndrNnBIN2Y1YUxOT0doTFctUEtXRHQtMUxHWVNBaXQ2WUZ6eUdsYms?oc=5",
-   "publisher": "ビジネスジャーナル",
-   "date": "2026-07-13T20:55:51.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "28f974e8558a1bb9",
-   "sourceId": "deepseek",
-   "title": "DeepSeek、米国AI覇権に挑む ファーウェイと組んで「脱NVIDIA」へ",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92WjZCbFhQWVVBalFkd2g1WmhvcmlGdVRPYlMxa3RUZkgxRzBxUndLMG92SHNrdmt0RDVYSlF4QkRGaWJRX3NFQkJiM3dUYS1rc2JKQXIxd3NpTS1Wa0FUX2NKNTJhYzZDWVZlUw?oc=5",
-   "publisher": "日経クロステック",
-   "date": "2026-07-12T20:00:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "54b9471928dcc218",
-   "sourceId": "deepseek",
-   "title": "アンソロピックとOpenAI、中国勢の攻勢に直面－AI競争は「性能」から「普及」へ",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rWjhsY0U1R09sbS1ybDlyZmJYUWpWOGtSekRzU2pLTjZlR2U3V1prUEtNd29zN0xCemJoQS04bC15WVh3a0FOcWxNaW5zUjE5QUhGVXVOTUdMNWpsM2dER3hSX00wNGRPdlNmbTdUNzZYUi1pUnpF?oc=5",
-   "publisher": "Bloomberg.com",
-   "date": "2026-07-12T17:25:34.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/697fa5ae089a7f9330c5078f/AaXgkciE-wvxSPrA4wg0n.png",
+   "via": "RSS",
+   "titleOrig": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval"
   },
   {
    "id": "0838d2beb0f0dd2c",
@@ -3845,17 +3862,6 @@
    "via": "Google News"
   },
   {
-   "id": "3177e658e8f7726b",
-   "sourceId": "others",
-   "title": "Perplexity AI、Futaba Labグループとデジタルアセット執行基盤の共同検証を開始する基本合意書を締結",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NbXZIbUZoUzk3N1dvd0dtaGlmNkRtX1BERkg0VXpFUjBNX0Z4bXh6Nm1Ra0laMmhmMWJoMlkzLVFIQkFIZmdwa3JyZFdpNVJBRTZYNXNXb2hfUVljV3d4dGxvekw5ck4y?oc=5",
-   "publisher": "ニュースメディアVOIX",
-   "date": "2026-07-10T02:32:33.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "92ac39117a2d7b13",
    "sourceId": "others",
    "title": "PyTorch でのプロファイリング (パート 3): プロファイルに注目するだけです",
@@ -3890,17 +3896,6 @@
    "via": "Google News"
   },
   {
-   "id": "882030a960a168f2",
-   "sourceId": "others",
-   "title": "SBI系DeFimans、Perplexityなど5社が次世代取引執行基盤の共同検証へ、RWA市場300億ドル超えに対応",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WNXNycWk3TXFnMWZZbWhfMVl3T3pTOFNNaTRxR0kyZi1ZYWdsVDFnbzlidHFtOG5MMXFsQVYxT0YxalkwT2o1TWxPZVpDZnh1NlZRQ3JDVG9oRFZXWU1Ta1JnM3pLZG5FNTRyOE5FbzFCdmZp?oc=5",
-   "publisher": "BigGo ファイナンス",
-   "date": "2026-07-09T09:45:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "269fbe212e329b04",
    "sourceId": "others",
    "title": "DeFimans、ＳＭＢＣ日興証券、日鉄ソリューションズ、Perplexity AIら5社で既存金融市場を含む複数市場横断型アービトラージ取引等に関する共同実証実験の基本合意書を締結",
@@ -3923,12 +3918,12 @@
    "via": "Google News"
   },
   {
-   "id": "1b6adafb9235d9dd",
+   "id": "1e7418a93ac46663",
    "sourceId": "others",
    "title": "Futaba Labグループ、SBIグループ DeFimans、日鉄ソリューションズ、Perplexity、ＳＭＢＣ日興証券らとデジタルアセット次世代執行基盤の共同検証に関するMoUを締結",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CWXRzNnA2aHVHeDItTjVQTUpZenY4dkRCaE1PNllIV2hmZDFNQnZzRHhYdUVMUmNDcm4tcDlnMjM2ZzdCM2NGdVpuWFlsWnJ2bl9IUmtDbkViVGJ2YXh0WmRNVGhXRWN1Wmc?oc=5",
-   "publisher": "PR TIMES",
-   "date": "2026-07-09T07:00:01.000Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ja3ZFRlB6UUsta1RTNVNVZEVrM29GZHBDWXdVZFVCZVBUOUlVclBPOVNVems3N05hSGtRYmZTT2w4LWtrcEMzUmRYQURSTmVLcnQ1WUpoTGhWcUVVNzhVNno1b2dqT3drb1pKakhjVV90a2EtOWg0c2R4aE1JRUU?oc=5",
+   "publisher": "Excite エキサイト",
+   "date": "2026-07-09T07:45:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -3965,18 +3960,6 @@
    "excerpt": "",
    "image": null,
    "via": "Google News"
-  },
-  {
-   "id": "354aabffaf84f770",
-   "sourceId": "others",
-   "title": "エージェント向けデータ",
-   "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-   "publisher": "huggingface.co",
-   "date": "2026-07-08T17:16:05.000Z",
-   "excerpt": "",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/68d2fec8856b85d927e44d32/P3b9bOHrdkEJeAcWX6FoW.gif",
-   "via": "RSS",
-   "titleOrig": "Data for Agents"
   },
   {
    "id": "a60157bcd8fb286d",
@@ -4036,17 +4019,6 @@
    "via": "Google News"
   },
   {
-   "id": "1ef198c20c52a857",
-   "sourceId": "others",
-   "title": "Perplexityは、Nvidiaの新しいCPUを採用する計画だと述べている",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWdVc3QTc1TkhtLU1SejY2WjUyWnN4cHEtblQwY2tCUzBZRDBaN1lHSXRkMklxdzlfZmhlTEFWMVhZVWx6UjBjbXEtM3BRY3BMaEhOU0JMNUpDTkhYMW4xTVBuVWEzOVJOZUpoeFJ6RThseG5qWFZ3?oc=5",
-   "publisher": "TradingView",
-   "date": "2026-07-07T19:02:29.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "5148cce2e081ebc3",
    "sourceId": "others",
    "title": "ファウンドリが管理するコンピューティング上のハグ顔モデル",
@@ -4068,6 +4040,42 @@
    "excerpt": "",
    "image": null,
    "via": "Google News"
+  },
+  {
+   "id": "936700013f4c9b36",
+   "sourceId": "others",
+   "title": "AI ワークロードを任意のクラウドで実行し、Hugging Face に保存: SkyPilot を使用したゼロエグレス ストレージ",
+   "link": "https://huggingface.co/blog/skypilot-hf-storage",
+   "publisher": "huggingface.co",
+   "date": "2026-07-07T00:00:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "RSS",
+   "titleOrig": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot"
+  },
+  {
+   "id": "eda65bfc6b1026a5",
+   "sourceId": "others",
+   "title": "LeRobot v0.6.0: 想像し、評価し、改善する",
+   "link": "https://huggingface.co/blog/lerobot-release-v060",
+   "publisher": "huggingface.co",
+   "date": "2026-07-07T00:00:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "RSS",
+   "titleOrig": "LeRobot v0.6.0: Imagine, Evaluate, Improve"
+  },
+  {
+   "id": "e77f73b4cb540048",
+   "sourceId": "others",
+   "title": "PRX パート 4: データ戦略",
+   "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+   "publisher": "huggingface.co",
+   "date": "2026-07-06T15:30:55.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "RSS",
+   "titleOrig": "PRX Part 4: Our Data Strategy"
   }
  ]
 }
