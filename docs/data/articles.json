@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-09T16:34:48.104Z",
+ "updatedAt": "2026-09-09T20:53:56.083Z",
  "count": 360,
  "sources": [
   {
@@ -68,6 +68,72 @@
  ],
  "articles": [
   {
+   "id": "0488b29c967edb77",
+   "sourceId": "openai",
+   "title": "AWSとOpenAI・Anthropicは互恵関係、有力AIモデルの確保が欠かせず",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGpSa1F0eWs1MFZrLXVPU0s1RmVJQjNWdWQ0cnVhZGxkUHdndTdTekdCemdWWUh4YWJ5QWNGdzZzWC1FcHVoLWpfM254a2d2WlYtOE0weExCNnZtSEx2eUZSN25iWkFEQlN3X3ZaWlI3TE9zeDEwRks4Y3BYdnlUdmJCSHU0MWVKdGh5X05mTTY3elE?oc=5",
+   "publisher": "日経クロステック Active",
+   "date": "2026-09-09T20:00:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "5a575f884188e5fc",
+   "sourceId": "openai",
+   "title": "OpenAIのAIエージェントが10以上の外部サイトで無断通信、研究者が相次ぎ発見",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43MTg0WjhQY0VJNTZzZFAwVE9GVFVVSVFqLVZFbWpXYkFiRWtoVXNFUHB5b0E0b09ibUVBc0N3VnV3UV85RkJXM3c1MDl4SUdId01qVWVZWVZ2RnZobEdvNU5heGM?oc=5",
+   "publisher": "Межа. Новини України.",
+   "date": "2026-09-09T19:20:35.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "ddaf28760dbf713f",
+   "sourceId": "openai",
+   "title": "OpenAI、ポール・クリスティアーノ氏を財団理事会と安全委員会に任命",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMmJIcDhJNW1TS0R2OGNLSXZRWTBpOFE0V3RFaXhIZEFycGUtUnhzT2xnY1dOWExhS2lmektBUHFLc2dqRWktWEhPdlZISDlxT3BDdUQ3T0JXcm04SS10aUdaWTBWeGhrd3FZVFBnUjdnRWtPUWxnSld0RmhpQlBGb3hGSXd3bExrU2tCY1lWMVlWTkpmM0ZWVVZR?oc=5",
+   "publisher": "Unite.AI",
+   "date": "2026-09-09T18:45:41.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "cd7ace337b901581",
+   "sourceId": "openai",
+   "title": "エヌビディアとブロードコム、OpenAIの「Astra」で双方に追い風──クレイマー氏",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90TUZFaWdkR3pkdWxSdWs4Q3QzV0JPOUpfbWtRbTRDSUpDVEkxNWpaZFNxVjRMMUZRS1pwdENGWVF0TUo5UUp3aE1PSExpVmd2N0ZWV1o3U3BzdkZxTnJRVEhPdHprUUdXV09IWTdnaTFuR1lh?oc=5",
+   "publisher": "BigGo ファイナンス",
+   "date": "2026-09-09T18:15:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "96251a3bdcf7b1d2",
+   "sourceId": "openai",
+   "title": "OpenAIがポール・クリスティアーノをファンデーション理事会に任命 執筆 - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyWnJDVHg0OUd6WHNQUkg4LU8xVkdUUGp0bjZBanpaRHpfbWZpODI4OFRmZlBod3k3cExza081R1NIME5JTHBBeFZEakNwRmpKRlBlNlhBdVJnU01yT1EtclhEMU5Mci1ka2FIX1kzXzc?oc=5",
+   "publisher": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "date": "2026-09-09T17:05:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "79619d6ae06c3a80",
+   "sourceId": "openai",
+   "title": "Paul Christiano joins OpenAI Foundation Board",
+   "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+   "publisher": "openai.com",
+   "date": "2026-09-09T17:00:00.000Z",
+   "excerpt": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+   "image": null,
+   "via": "RSS"
+  },
+  {
    "id": "921614aa46e763c4",
    "sourceId": "openai",
    "title": "OpenAIは、世界で最も難しい数学的問題7つのうちの1つを解決することに成功したと主張している。",
@@ -90,17 +156,6 @@
    "via": "Google News"
   },
   {
-   "id": "5350a330750e4428",
-   "sourceId": "openai",
-   "title": "NYU数学者とOpenAIのナビエ–ストークス問題を巡る対立で、 Venice Tokenが27ドル台の最高値更新",
-   "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNNzRQWU01MG1FVXQyWkRoVTE3TmZyYkpWOFZac1pTdmt6NUlmRWVVWHRnUXdMdTZwczR4NWtVakRTQ0ZFajlQemdXWHpaR2tEa21McExGbXUtc2ZhczFPRWJIbEYwSjlmYTF4YnZQU0NITzNmYjdvQlVLaTdkWUJvbTRoWFl1U2dwYmxZRFZvRk9pYmhWWFloSXdPTTFWNFhoZzZzbmY1WW95VVk5b295Y3hjNmQwSk1zTm13b1NLVUFSNjI4SkZxLVdVZlk4S2JVZVNudm16dWhIMUpfdVJDZ203b3ctd0M4Z3ZBcXpIUmo5NXlPbTkyV3ozUEg0X21TNWRzelNEM3RTX2tJWmdCS0Jla0M2Zk53YXd3a2VET0lsd2dtZzhyQU5HbG5rN25SQ1k1M25OcGFMQU1ic3RpdXkwbTVRcldLR2p5RDFWdU5DdlNYZFljRVVNZzJpTnBqX1d5SElFZVBwSzczSHZhaTJ1MDc0QVZTdmQtQ3RueGdMMWFpbHpLQTZBUVJFcjNvRnNwVElMRHJKYl9oZ3BTWmdBUENDal9fYjY0WnB3WlZ3N1NFNy1kdXRsdUNhVk9XOUdrUzdsM2JoMjQxNWV0bmxYVGp6a2NtbUJDR1ozOHNWMjVlbV9PQzI3Mlk?oc=5",
-   "publisher": "Yellow.com",
-   "date": "2026-09-09T15:01:17.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "f9f6cbc79175447b",
    "sourceId": "openai",
    "title": "画像生成モデル「ChatGPT Images 2.5」登場 一貫性を維持しやすく",
@@ -117,7 +172,7 @@
    "title": "GPT-6デスクトップAIエージェントが成熟、ホワイトカラー職に構造的圧縮迫る",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WNlRybV85WnR6LW94SWVRck5fTDNfOHlMa1hzU3o3cUVCSEdpdFktUXN3WFhXdnZkTDQxZG9XYmN2WFI1ME9pdzZaZzZYZ3JNWXJ3QnRNcnRyWlk2M0dqY3k1WlozTFZaQnZwNWNCWldSMFFP?oc=5",
    "publisher": "BigGo ファイナンス",
-   "date": "2026-09-09T13:00:02.000Z",
+   "date": "2026-09-09T12:55:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -222,17 +277,6 @@
    "via": "Google News"
   },
   {
-   "id": "f7c9c0e65320f6bf",
-   "sourceId": "openai",
-   "title": "同調圧力に群集心理。OpenAIの“ハギングフェイス侵入事件”はAIなのに人間臭い（ギズモード・ジャパン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DcFpsVzI1RWdtQzRNVFNfMUs3VWZYMFg3blVhZUdoMnJnSWtpb2RWM0t1TVluVVFXYmcwQ3BuRmdOS1VEZk1KVVZ1djUwbjdDamVGaEcybkpKMk9QU3Z0VlJvV1VrTVRRQUtkS1MxOHZleVJvOTBRMGVKdXZpMkk?oc=5",
-   "publisher": "Yahoo!ニュース",
-   "date": "2026-09-09T10:00:01.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "9380eda4d9a7791a",
    "sourceId": "openai",
    "title": "OpenAI、人型ロボット市場に参入 テスラと真っ向勝負の勝算は",
@@ -244,22 +288,11 @@
    "via": "Google News"
   },
   {
-   "id": "51afa2e9ff6baae7",
-   "sourceId": "openai",
-   "title": "「もはや写真と識別することは難しく」——ChatGPT新画像モデルが公認会計士を身構えさせた理由",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE51SmhjaW0wakVaa09QTm9GUldoS0x1MXV4X0VxMTRLbk1ybXY4WWhZdG5tU2wxWU1IdXIyS2MxQ1M4Zw?oc=5",
-   "publisher": "shiritomo",
-   "date": "2026-09-09T08:36:52.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "4e823f1417b165a4",
    "sourceId": "openai",
    "title": "OpenAIの「特別パートナー」に認定！最新モデル「GPT-5.6」の活用から現場実装までプロが密着支援",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96MXhLUW9SUmtUR2lOX3l0REZQLXVreldxbVl3cDkyUmdCWm9SaUlJRHNXRWxrdUxFUzVMQWlkM19yT1JQTkFvTk9UTDQzRlkwazk0?oc=5",
-   "publisher": "DXマガジン",
+   "publisher": "dxmagazine.jp",
    "date": "2026-09-09T08:27:29.000Z",
    "excerpt": "",
    "image": null,
@@ -292,7 +325,7 @@
    "sourceId": "openai",
    "title": "ChatGPT Images 2.5｜画像APIが速度と精度に分岐",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zV0piLVFwQTdZTnl3X3pOZnl4WDdHbTVUV1JOMjFILVQ5OVpZNkpkWjlrY2NTX3VobVYxRlJKbzVGejJUd3cxNzRyeTRyODZ4V1Y4?oc=5",
-   "publisher": "innovatopia.jp",
+   "publisher": "innovaTopia",
    "date": "2026-09-09T07:44:05.000Z",
    "excerpt": "",
    "image": null,
@@ -304,7 +337,7 @@
    "title": "OpenAI、次世代チップで韓国サムスン電子との連携強化—エンタープライズ事業が急成長",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82MEppeDNNeUhhSHlFUkRFcV9SM21WeENRdG42WGlid1QySENXWWZDSUx2UE54WWZoVjd6SmdqSWQ4U1l3ZURicDRkZm9CUEtrU3FCa0FvckFDS2dldGNFb085N0VsNlR1TGJyYnRicmVkeDAz?oc=5",
    "publisher": "BigGo ファイナンス",
-   "date": "2026-09-09T07:30:13.000Z",
+   "date": "2026-09-09T07:25:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -425,29 +458,7 @@
    "title": "OpenAI Korea発足1年、企業向けChatGPT利用者が28倍に急増——韓国",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YNmduR1RIbDc2QXNtRE1LUWRlbmctb1l0OElETUxMeHhRUVB4M2tzeUlMX2ZnNWdZdVdDdWpzaFZxRFJpV3l2ZHdQTnNtS0RoanA2aFM3SWJFQU9MOWxTamJKcXI2bDBnLUJ0akpnQ1dBTjIz?oc=5",
    "publisher": "BigGo ファイナンス",
-   "date": "2026-09-09T04:55:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "46ef726a2117dcfc",
-   "sourceId": "openai",
-   "title": "OpenAIがクレイ数学研究所の7つのミレニアム問題のうちの1つを解決したとき",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVW5hQVVMelRaOE5ndThNZDRnTVdVcXAtNUY4Z2hpTWNKb0RGUTRMbXFMN2dQbm8wajZJcDRXZXR6dlYyVW5wQ3BRQjJyN3VPN2dmYmIyaVloamY0RWpBRnpQSXhoNmwwbmFJWVBhVmVLS2p4c1BSS0JLUjluT2xWX2RHM3pwMUIwNzFhZ0w0WURmR0tGaTlLMndjcjJUWUpmd3JBRk81Q1B4UQ?oc=5",
-   "publisher": "Vietnam.vn",
-   "date": "2026-09-09T04:39:23.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "a7fd66da6dfac688",
-   "sourceId": "openai",
-   "title": "Sonos、ChatGPTなど外部AIから操作できるようになる「Sonos 27」",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVbjYwM2dCYVVFNDJZT2dOc0dKb3kxQXE0Qk41VU1oZzY2cnZNM0I3eU03d0RTWEYtQ21FOTR2TTRwSVI1ajk3RFl2MXA2bWVFbGVjbjRkMWFibDV6Tks4YU5Ybw?oc=5",
-   "publisher": "AV Watch",
-   "date": "2026-09-09T04:30:00.000Z",
+   "date": "2026-09-09T05:00:16.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -497,12 +508,45 @@
    "via": "Google News"
   },
   {
-   "id": "66efc3156370221a",
-   "sourceId": "openai",
-   "title": "OpenAI、「ミレニアム懸賞問題」の数学難問をAIで解決と発表",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11WWdHTGZHNWdsenhhbFdHNlFackR3bGdYSG5ZS0FiSmh6X1ZlSGFiZGt1czc5NmpENi16VDAyOHdnVnJkUWJvUTVqbE1ZeHZoNUxBMkwyTWFKc0ttSWhEWEt1N3hzVEV4aTVzMA?oc=5",
-   "publisher": "日本経済新聞",
-   "date": "2026-09-09T03:03:20.000Z",
+   "id": "348edf4756321048",
+   "sourceId": "anthropic",
+   "title": "AWSとOpenAI・Anthropicは互恵関係、有力AIモデルの確保が欠かせず",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGpSa1F0eWs1MFZrLXVPU0s1RmVJQjNWdWQ0cnVhZGxkUHdndTdTekdCemdWWUh4YWJ5QWNGdzZzWC1FcHVoLWpfM254a2d2WlYtOE0weExCNnZtSEx2eUZSN25iWkFEQlN3X3ZaWlI3TE9zeDEwRks4Y3BYdnlUdmJCSHU0MWVKdGh5X05mTTY3elE?oc=5",
+   "publisher": "日経クロステック Active",
+   "date": "2026-09-09T20:00:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "76b1b47eef4b54b6",
+   "sourceId": "anthropic",
+   "title": "Anthropic研究者がAIの脅威で辞職 本当に人類滅亡の可能性は",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWkzZ09TdnlzYkRpNUw3dEVXdmYwR3BfOHh2ZE9RTmh4TTV4eDNLT0FRWHBpNlZBLUtPTU9Fakx1VlB1S2xFNzl6dGI1Qmo0YTljWWtXX0NkWkpjbnl1ZDBQT0FycFdPNW05MGxBdjViNUFEMk1PZk5wQVpNaEszbnVoQ1kwWHc?oc=5",
+   "publisher": "BeInCrypto",
+   "date": "2026-09-09T19:56:20.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "4850bae214306e3b",
+   "sourceId": "anthropic",
+   "title": "アンスロピック、有料版Claudeで「乗っ取り消費」被害 盗まれたログイン情報が原因と警告",
+   "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxNVDdJMnJlUUctM0tNSXhQX3FiUGV6YkZCdWNIRXpoQ3RkVDV2angwUlg4Qmx5eUozWkNsbFNrZlVRZWhLc0hyT2ZPakROOENaQ0RUNHRuOXhSVTRpVVJEMHV1MlJORlhxTHFqRzB1eVJXVzBYWnV2U0RNak5oa0tXckl1TlZybHR5XzlUZmpZS25CeFBZdzRrMEpWZWVmWW9KM0UxVVdET0xnNjBoSTRVTi1IcWFwTlpwdS1fa3c1ZFd1TjZMQUpUQTYxd291ZlBfQzIwcWo2OXcxSFV2cTUxbVNia0lHeC1zOXF4NlhwalJaTmJWaVVxZzZybEtla1N3LW1Gb05oMVJnTUEydl9BcHJCVDRoZlZNSk5pRk5vMkEzX3ZxRU92Y1VBMWdBU254VURZZTlOTndiQmtjazByUlEwd2VZRkhuYXoxR0VqdDhtcWVPbFp4WFByRXduZzVoU2U4MGNyU2ZiUjVFMzJRZWQzWVVCTEFVejdPclhRUGZFdHdtQVJDajRyeUZreWctcnVfSzFuTkVxZUY3MjVzdHZmVUU1TEZ6M21ockluTTRTMWRvUEhEUFhZNVRSNUtRVXl1Y1JWSzdWa0hrbnc3TEhWMDJ1bi1UcVg1R19CQkR1c3lVSF9Xdm9pTEhBN3N3S3hMdWNIY0tsdGk2eU5LZi10N1MyOVB2Y1VaZFhCNlZhQQ?oc=5",
+   "publisher": "Yellow.com",
+   "date": "2026-09-09T19:24:29.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "a3978c0c853a40a5",
+   "sourceId": "anthropic",
+   "title": "AnthropicがClaude AIモデルに関する4件目のセキュリティインシデントを公表 執筆 - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VY0JPNGhhX2FYOWtfcEw0dmxvNVRaXzBTN3RQMFhUMVlOczRBbjRIYTZpaVlaQ01xd3dlY0Jmd01ISndEY1Fqc2dLcnlrejltWFVfaEJBTFdYVTJ6bFJRUVBobnhyYVRtNDQ0REo5TUJ5WHJuZExj?oc=5",
+   "publisher": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "date": "2026-09-09T19:12:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -514,6 +558,17 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNkx6eVZaUzJCell6VGxtMEMxRGxoaHBfSzFsWlJ6bmhObExnYkQ4NEY5cldVQ215dE03M0lKSndBR0o2a3c5NnNFR0k3LTFUckJLRVVsZ3pKM29RYUpBemVJR25WTnZ5RVlxY3VuTjhwc2tHakxkTFYxck9KNjZRb3U4NElITWl6ZnVVWHV1MmhpX2Y3cTkwNktB?oc=5",
    "publisher": "Unite.AI",
    "date": "2026-09-09T15:19:38.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "154e051bf5f48c49",
+   "sourceId": "anthropic",
+   "title": "- Anthropic",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5",
+   "publisher": "Anthropic",
+   "date": "2026-09-09T15:10:27.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -536,6 +591,17 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTnkxbFNBbk5aakJtVGhqVnZZZWxMcFdvazItYm9tYlBuVU5EMUdFTkRxREZaVnFHSVBRNzF0eWJRQkNFQ2RTQjFvSy03MnM1VkN5ekhjcVZrOGx2R0poMFpFUkptcWMtNWhZOERtWjR6OHlla1lELW1lTXJHbFRPRmdsRE1pb24tSzJDYl9Bd0d0RlRRd1pWMUNxYkIwZw?oc=5",
    "publisher": "www-cdn.anthropic.com",
    "date": "2026-09-09T13:43:45.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "1a89590273bf4b78",
+   "sourceId": "anthropic",
+   "title": "Scenarios for our Economic Future",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nNk9oS1M5R2tRa1hxZ0I1X0ZvNC15aEhrT2hyMFRpZnRUdDY4QzZSRXdfUmU1YjlYNGctV1dZXzZoakVEY19GNlNBNW1iX1RvWWxWNXhzUmRJcm93YTFr?oc=5",
+   "publisher": "Anthropic",
+   "date": "2026-09-09T13:43:30.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -673,34 +739,12 @@
    "via": "Google News"
   },
   {
-   "id": "154e051bf5f48c49",
-   "sourceId": "anthropic",
-   "title": "- partner-sso.anthropic.com",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5",
-   "publisher": "partner-sso.anthropic.com",
-   "date": "2026-09-09T03:07:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "1752a1d31169c2da",
    "sourceId": "anthropic",
    "title": "セールスフォース、3億ドルのClaude請求書に「モデルルーティング」戦略で対抗",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40eFV1ZEZMOGE4a2JOWTgzT2tzY3ZiemUxUzhTYW9RdU5zMXNOVUdvNFd3V0dpcFRFRkRBc1FkWW4tS1RWQkx3MlNDa2N1cWFKRU1xQlctb05oNThEMThhLUYtZi1xY1pUa3BEUTc4OGFMV1hl?oc=5",
    "publisher": "BigGo ファイナンス",
-   "date": "2026-09-09T02:09:35.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "5f6fce57b5df5b1a",
-   "sourceId": "anthropic",
-   "title": "Anthropic「Claude」で不正利用 セッション乗っ取りでClaude Codeのトークン消費",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSlVVVHJKR3pjeER3UTV5RTZtWU5HSlpVYUNpY282aGo5ODdqOTlKNE4tT0h3S0NPU3g2Zm1rMnVQNUFJS0RrVjJrY19acjZyalB6UUdhNFkzanJobkF2RlVEWGMzbFpNUWt2ZDVuQVd0UjdBUnRpdnE5ZDhKRlZJQllmdVFPTXlWNGtIT0lObVRFQWxDNlhSZGo5cmZkdmphZDdTSnF1d05zUlZFa3c?oc=5",
-   "publisher": "디지털투데이",
-   "date": "2026-09-09T01:44:52.000Z",
+   "date": "2026-09-09T02:05:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -739,45 +783,12 @@
    "via": "Google News"
   },
   {
-   "id": "ca3395d7ccb5b223",
-   "sourceId": "anthropic",
-   "title": "Claudeのトークンが未使用でも減少、アンソロピックが不正利用を確認した",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11b21XUUlMMkNhN1lNeGpMaTBKcEFfcndmX1IwVHFiX2pOQWZacWRPUkhOTjBEMGZiLWhJZzhTMnNUZ19oTDdaMVo0WEZnbmpyTi0yeDNsdUwtMVpWWTFvS0RNdTZndw?oc=5",
-   "publisher": "Межа. Новини України.",
-   "date": "2026-09-08T22:19:04.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "ecac1a047bd9d5f2",
    "sourceId": "anthropic",
    "title": "「AI検出」を「不正」と見なす危険 “Claude電子透かし”の技術的限界と企業の正しい運用設計：久松剛のIT業界裏側レポート",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00bWpBVm1mNGt6ZUhZWG1sYzQxQi1sblVrZDRGWk5hcTd5QU01TXpocV8zc2VjYV95alpCOF9IaXI4Rkx2TkNfN0taM294U3c5SXp3cUlLeEY5UVREQ1QtbkpaTFFGQjVOdDlGZVhqVlRLeThi?oc=5",
    "publisher": "ITmedia",
    "date": "2026-09-08T22:00:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "a397a5bac067485f",
-   "sourceId": "anthropic",
-   "title": "アンソロピックの急成長を支える「Labs」。悪いアイデアを素早く潰し、方向転換を恐れない約20人のチームが挑むAI開発",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdWlyX0VFa1UwME9mSzZEQWZkNVh4OW5WaElIZC1FWkEtX3hRTG12QjBQZk0xVWprc1pZR28xbWpOaDhQamNKVWJoMHNNWGpEUElIYmRGNGxmT1NRb2NHTGlGejZ6YmRTXzVuS2pGSzNmdXh1Yk54OEU0RUlEdllVZg?oc=5",
-   "publisher": "Business Insider Japan",
-   "date": "2026-09-08T21:40:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "f9c97a5a2c18be49",
-   "sourceId": "anthropic",
-   "title": "【Excelダウンロード】Claude Codeの品質ブレを劇的に無くす「神テンプレ10選」",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwZFI5bkZVWmFyRkI3SVVpZkx1aGNtSjZvU190LVFXeElBUzI1Wkl5dmszZTNhZnFvZ2FOdWVlUkUzVGVQbmxrRmVjMA?oc=5",
-   "publisher": "ビジネス+IT",
-   "date": "2026-09-08T21:14:19.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -811,17 +822,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tRTFBZ0dnX0dBZVJKVEpkMmotNG0xNFV5THBxTlR2TmllSHFReWd4T0l4Vjd4WnViS2FwdTlfNk9qcnBrcHkwZjFpOTNCVnliNkV0OW1wb3NDOEJOREJQMTVUYUp5dDA?oc=5",
    "publisher": "テクノエッジ TechnoEdge",
    "date": "2026-09-08T13:01:32.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "17ecee11c58184c5",
-   "sourceId": "anthropic",
-   "title": "Claude for iOS に使用量ボタンと Claude Code 設定セクションが追加",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ1IxYWRRazlxNVhYRllhN3lyeEF2ZW9VN2Nac0FJRXRQX25JYmh5dmNBOWwxMjNyMlNVekNjcklDNDkxSUpRTGpKdUpIS2dqdVJkWWhteUdmeXNJbWxBN1Fjc0Rxd1U2M2xkdWJsR1c0d0dRWGNwWXBZYU02bFRVSnQwaUxqX3VTTWc?oc=5",
-   "publisher": "Pasquale Pillitteri",
-   "date": "2026-09-08T10:17:47.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -953,7 +953,7 @@
    "title": "Googleの自動化ツール「Workspace Studio」×Gemini、4つの業務効率化アイデア",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83ZGswc3BUNElVcXBZdlByYWFUMHc5bEdZYUFBM0xRZF9qRWRMbnh4dC1kRDlyLVp1UkNnN3JEajVCUk8yWXp1d2R0czZ2MXR5NFZPVVJzQ2tSMmNoY0o5QzRFSXlPUQ?oc=5",
    "publisher": "キーマンズネット",
-   "date": "2026-09-09T16:14:18.000Z",
+   "date": "2026-09-09T19:16:18.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -1146,17 +1146,6 @@
    "via": "Google News"
   },
   {
-   "id": "f87adc20483e944a",
-   "sourceId": "google",
-   "title": "グーグル、MrBeastとGemini宣伝で複数年契約 | ニュース | IT×エンタメの最前線を届ける",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE15ZlI4bkdpRjdLT1ZEdWVrc1ZfRlVoSDV3dzRkcC00a0prMk1pREwzZmhhUjJ3YjN0T1pITllod0tQc3RWcm5r?oc=5",
-   "publisher": "MEDIAMIXI",
-   "date": "2026-09-07T08:55:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "8e9b8685564ec5c0",
    "sourceId": "google",
    "title": "Google、動画生成AI「Gemini Omni 1.1 Flash」を発表 ― 最大40秒のシーン拡張と4Kアップスケールに対応",
@@ -1245,22 +1234,11 @@
    "via": "Google News"
   },
   {
-   "id": "7ad755eb86293b8a",
-   "sourceId": "google",
-   "title": "Google「Gemini 3.8 Flash」発表 プロンプト1つで3Dゲーム生成、価格据え置きで大規模モデルに迫る",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RRW9mTnNyQXhzN0xJNFRJQVNuMnV5T3JqRmVLTlBEWmNmSUwxd2FudTB0RVFWTm5hbldZQkRuSTB2RmdmdjBVVTRkSzUwTjF6c0ppQ3BGTEx0cmVlTmhjNGV6bGt5dUtnbVRBYWxFV2dSUQ?oc=5",
-   "publisher": "ITmedia",
-   "date": "2026-09-06T23:00:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "c9e8643c82c5f0f3",
    "sourceId": "google",
    "title": "発売前のモデルが、もう「Claude超え」と話題に――Gemini 4 Proリークの中身",
    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5xMXJxZVgwWnJfbEIzVWx2QnVZamRhamt1cmltM3R2bGkxekthUVNLLUhNU2ptMGdnTEVVM2VCMTN6Zw?oc=5",
-   "publisher": "shiritomo",
+   "publisher": "hashout.jp",
    "date": "2026-09-06T22:23:27.000Z",
    "excerpt": "",
    "image": null,
@@ -1304,7 +1282,7 @@
    "sourceId": "google",
    "title": "【Googleアップデート】作業中断ゼロへ！「Gemini サイドパネル」が実現する文脈ベースの仕事術",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PVnFDVFVxNHVXZzY3SV9MRi1IT0ZpV1FkbUpORVB0SHduUURSVEhaUDdfQ1k2azFUTUgzd2h4VkxjRVNhcGhUT002NzVVOTg?oc=5",
-   "publisher": "DXマガジン",
+   "publisher": "dxmagazine.jp",
    "date": "2026-09-06T02:03:25.000Z",
    "excerpt": "",
    "image": null,
@@ -1359,7 +1337,7 @@
    "sourceId": "google",
    "title": "Google、音楽生成AI「Lyria 3.5」をGeminiアプリとAPIで提供開始",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCZjdKSlpUVVlUTUs1U2NXM1lMN2Nxb1VoMEYydVQwZ1Zic0V3MElxcUU5OFpqZFE1MWF5cm04WV96cmNhMlp0T2lySWE4VXhTVG44?oc=5",
-   "publisher": "innovatopia.jp",
+   "publisher": "innovaTopia",
    "date": "2026-09-05T11:05:00.000Z",
    "excerpt": "",
    "image": null,
@@ -1388,6 +1366,28 @@
    "via": "Google News"
   },
   {
+   "id": "847c05a45c0767ec",
+   "sourceId": "google",
+   "title": "Google Geminiは機能名を増やすほど使いにくくなるのか",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SYVR3a0FHVW9XVkYxSG9nMEhVVjJFODBzNE5DYzYtY3ZxemZTS000cm90VHdnMnNOcGd6X0dKR1cxbklDT0J6NzBOSEt6N0l6Q1lTVjhXUjNXTm56V3RhM1ZVWVE0RkE?oc=5",
+   "publisher": "Межа. Новини України.",
+   "date": "2026-09-03T18:31:27.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "2f49a47c0a2a9929",
+   "sourceId": "google",
+   "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+   "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+   "publisher": "deepmind.google",
+   "date": "2026-09-03T15:02:08.000Z",
+   "excerpt": "",
+   "image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo",
+   "via": "RSS"
+  },
+  {
    "id": "33b02f1e90de9f96",
    "sourceId": "microsoft",
    "title": "【見逃し配信】AIで企業とビジネスが変わるAIPC導入活用セミナー REPLAY",
@@ -1405,17 +1405,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40S0g3bkJWU2p0UGJZdkVFN2czcGZ6akxVclU3QldJOEdaSUtiMThCX0FIdW0xbk1tdjdJNkpUWk0tVEJTWFdxMXA4SGFjeE8xZTBpUzBuemZVRmJYY3NwbDViVWhmQQ?oc=5",
    "publisher": "キーマンズネット",
    "date": "2026-09-09T07:31:38.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "cdacc1876ea3e0ae",
-   "sourceId": "microsoft",
-   "title": "Microsoft Korea、9月30日に「Industry Summit」開催 金融・医療などのAI活用事例を紹介",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOFlXQkZtaHlzQkI2TVFuN1U0R1k2Qm9hU0tpQzV4dHpfa0JEeF94UkhGUl9fZUxFMkc3WU5Va3M2TG00Vmh3Z3RLY19oRVZibDk2QURQZ2ZlMnhaRjRzalRrcERBWUNXSS1uYlN1SGcxUEsxeTZMVmlYelNTM0I0N3Fzd3ZhVzM1YzJkT2ZyT3dUR2p0VzB5djRSSHB3RGdYcFNCcWZNMWVLdTA1a00tbEFUdWo0czNraGJNZnQtcDdUZk1VQ1VJMElB?oc=5",
-   "publisher": "디지털투데이",
-   "date": "2026-09-09T00:06:20.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -1491,7 +1480,7 @@
    "sourceId": "microsoft",
    "title": "官民連携を深化しサイバー犯罪に立ち向かう －警察庁と日本マイクロソフト、協定を締結",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYk9XZnJZbThLbUI5WXA2amlOZ1ZfLXZxdnZ4SGpxd2N5YmZkalNOZm9DZTdTamFlQ0g1QTFBaklQZ0ZjWUpxNTJNYWJhRXRBaTZyRHItaWhmRV9YLW42S1Q2RDRUczdrb2hUNmozVkNXYklpYzdfOGphUUFoLTRjcDE2SF9CcUFmUG13TDl3bHdmXzBLbkMtdUg4X2FPUno0VFpjbHBXc2V4a3VrN2hNWDR4aVg1Q25XSHRJ?oc=5",
-   "publisher": "Microsoft Source",
+   "publisher": "news.microsoft.com",
    "date": "2026-09-07T08:53:05.000Z",
    "excerpt": "",
    "image": null,
@@ -1557,7 +1546,7 @@
    "sourceId": "microsoft",
    "title": "Microsoft、AIが「あなたの好みや仕事」を記憶へ メールやTeamsも文脈に、毎回の説明は不要に？",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pNG1PUXhyMU5NV2R6WGR4d2M5cHRFTXVXdDFnSDVfZHhsXzQ5SEROZTFlbVA4aVFnZ201SnN5di1LT2hVTHRXQlF6UFM?oc=5",
-   "publisher": "DXマガジン",
+   "publisher": "dxmagazine.jp",
    "date": "2026-09-05T08:54:26.000Z",
    "excerpt": "",
    "image": null,
@@ -1680,7 +1669,7 @@
    "sourceId": "microsoft",
    "title": "Atlassian Rovo × Microsoft 365：会話を、Jiraで追跡できるタスクに変える | Atlassian Japan 公式ブログ | アトラシアン株式会社",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yY0hINC1iMHhGbmM5NVBuVGVKcDF3LXdyd3FrS0NfeFNaa3BMN0hqODkwS1RsT0tvMFBrS1lzaUtUcjJuMFVDMnluZ0luQXVUT01kbEh4aUY5YkNYcmJQRm05N01CNTJv?oc=5",
-   "publisher": "atlassian.com",
+   "publisher": "Atlassian",
    "date": "2026-08-31T01:12:28.000Z",
    "excerpt": "",
    "image": null,
@@ -1801,7 +1790,7 @@
    "sourceId": "microsoft",
    "title": "MAI-Code-1.1-Flash: 4 分の 1 のコストでより高品質、高速化を実現",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdHF5TGJTZWo1RXNLdm5aRlgtS1RWSzhNX1I4bTBCWHJfRUVPVFBVSm4yRlppZ1Vrd1hHTlEtLTFBeVppTUxvWUJVZHI1ZHVFaTRqTTlRb0w2ZnREbHQ2RUlHT1lVTXozd0JGcnZqbnRZSm9RcmQ4VzBPdzJ6OHBnVjgwRDN0TGpWSllHbnNPZkZ5VXNJTldJY2FjZTZnWlBlS3FaQVpkQlRVN0JLLUh2dWtZcjFhalls?oc=5",
-   "publisher": "Microsoft Source",
+   "publisher": "news.microsoft.com",
    "date": "2026-08-17T07:00:00.000Z",
    "excerpt": "",
    "image": null,
@@ -1830,6 +1819,17 @@
    "via": "Google News"
   },
   {
+   "id": "201acee106df78cb",
+   "sourceId": "microsoft",
+   "title": "マイクロソフト、「Copilot」と「Copilot 365」を統合版アプリに移行",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMN3FXemFkNEh3MW1rN2pBclJ0cGVYdVA5Qjlha3IzS2lKX3Y5NXduSG9pVC02bE01QVgySmJSSzVJc0treHRfN2IzaDk5UTdjR0VB?oc=5",
+   "publisher": "ZDNET Japan",
+   "date": "2026-08-14T07:00:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
    "id": "db58b9194746ceb0",
    "sourceId": "meta",
    "title": "プレマーケット動向：Meta PlatformsがAIエージェント発表で急騰、NETGEARも大幅高 執筆 - Investing.com",
@@ -1845,7 +1845,7 @@
    "sourceId": "meta",
    "title": "クレカ決済やメール送信もAIにおまかせ！Metaの個人用AI「Muse」が実現する安全な自動化ライフ",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3b2tPSGgtM3F1eHUwTU5aQVVrdXZEdTFkVkNHa01aT3ZHbFJZY2tsT1ZIdjdVMUNERXdxeExWeExrSS1PWmJVSUUwaUJTN2c?oc=5",
-   "publisher": "DXマガジン",
+   "publisher": "dxmagazine.jp",
    "date": "2026-09-09T10:04:26.000Z",
    "excerpt": "",
    "image": null,
@@ -1889,7 +1889,7 @@
    "sourceId": "meta",
    "title": "Meta「Muse」登場、AIがメールや買い物まで実行する時代へ",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84UndTTHp2dWU2LXhOQVpTR0JjQkdRV0JBNWpVbHEwS0VIbkR0ZkFYOG5SY1UtWUJkMTloSDNuR1FLWWJxb0hISXItSURCM1l0NGc?oc=5",
-   "publisher": "DXマガジン",
+   "publisher": "dxmagazine.jp",
    "date": "2026-09-09T06:36:04.000Z",
    "excerpt": "",
    "image": null,
@@ -1933,7 +1933,7 @@
    "sourceId": "meta",
    "title": "Metaが渋谷に「世界一不便なコンビニ」を限定オープン！AIメガネで買い物ミッションを攻略する体験イベントが大盛況",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4MThkRkpFdlJKZW9RUEYtYVVMZ2x0bldqN1dHcEJjSlZvV25HM2JoWlpGbkdIbEJlZ21KdktySWdUcUJJNW52NjZlQUpCQXc?oc=5",
-   "publisher": "DXマガジン",
+   "publisher": "dxmagazine.jp",
    "date": "2026-09-09T04:48:11.000Z",
    "excerpt": "",
    "image": null,
@@ -2006,17 +2006,6 @@
    "via": "Google News"
   },
   {
-   "id": "a3cf0ab1fb051327",
-   "sourceId": "meta",
-   "title": "KAISTとMeta CXLで次世代AIデータセンター提案 - CHOSUNBIZ",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOblhLdVhyMmw5cGo4b3c5X3FMbmxFaTQyV1R2WWtvQVdVbjBQYldfWlN3NjZIQ29DSUpBb3VhcmVlc05UZFZNX1JJajVYcXh1b1JIYUgwc0JITy1tb0llMWN4T25tMktVM0RvRy1ZSUt6ZGpla0lOZEhJWlRRV211Y9IBlAFBVV95cUxNRlZVYVVaaWpCQ1o5Z0xIaGdpU0JvamwzeU41X3U4WTBJSlVRUjBXQ0ZHNDFYZFNJMDVmc1NfMXplRHlfZi1PdGVFZ2Y5ZmF2aGJpSTNNNjFQRVA0RHNTM3BnYWVjZEF4U2VpU0hocGtyV2JSeGZlamdTWUFYVjJReEd6RHV2SDM0WmQyT2l6clFZSnRm?oc=5",
-   "publisher": "Chosunbiz",
-   "date": "2026-09-09T01:03:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "6af21eecb040b9ac",
    "sourceId": "meta",
    "title": "Metaの個人向けAIエージェント「Muse」登場、買い物やメール返信を自律的に代行",
@@ -2065,7 +2054,7 @@
    "sourceId": "meta",
    "title": "「一番嫌いな会社と名前がかぶった」――Metaの新AIエージェント「Muse」が代行する中身",
    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBNcDZzdUVGaDBhemFzSjFDc3MxVXhrT3dsRHZVekFYWGNZRjZ3WS0wYWJSYXpfbUhjOEpCc1pQdUhpZw?oc=5",
-   "publisher": "shiritomo",
+   "publisher": "hashout.jp",
    "date": "2026-09-08T22:26:29.000Z",
    "excerpt": "",
    "image": null,
@@ -2109,7 +2098,7 @@
    "sourceId": "meta",
    "title": "メタがパーソナルAIアシスタント「Muse」をローンチ、METAは時間外取引で5%超上昇：AIサブスクリプションは新たな収益源となるか？",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGtFZHVsTFQ3akMtTmxPZTVzQmZGY0M0V01aZGRNNVBhblVyV2NIOW83WVlpWHRyLUt0YTJaSHl4YUlCcV9zdmI1QXZZNUdhdjA5cVV0MVo5aXhlRzFxSUtwQUtFbHF3NWJERktYWjFkNUFnMVVGNGlkWXN3YzdKcmRObXFXNW45RkExS2R4cklSZERfdHc1WjVaejZhU3lvTHp2VEVfc2g?oc=5",
-   "publisher": "tradingkey.com",
+   "publisher": "TradingKey",
    "date": "2026-09-08T21:19:00.000Z",
    "excerpt": "",
    "image": null,
@@ -2182,6 +2171,17 @@
    "via": "Google News"
   },
   {
+   "id": "ff7897c1377cea13",
+   "sourceId": "meta",
+   "title": "Meta「Meta Glasses」発表、ペパボ研究所と横浜国立大学「声を出さずに言葉を認識する手装着型デバイス」の研究結果を発表 ほか | 週刊VRウォッチ",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NcUdYNTVQdlFGaWpaMzNwOTVad3gzTkNhUmRNeEZmaDNqRDJ5ZC0xVVMxYWFEQXFmbUhHRVpndzdVdER6RVZGSHd2TQ?oc=5",
+   "publisher": "thinkit.co.jp",
+   "date": "2026-09-08T15:07:45.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
    "id": "19ef0bd7c34735dc",
    "sourceId": "meta",
    "title": "Meta社のAI搭載メガネは、公共の場で使用される際に物議を醸している。",
@@ -2199,17 +2199,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tOXprMC1CYlVZOWttZUJuRUVkbGhYUTBjNGN0bC1kUngxenFXOEJlNXNyanJ0QWdQLUtxRU5aVno4QnFfbVJMSnUwcFB1aVRjUWNDWVNQTU1pZXNPNWZycmdST0JveGlSdmt4VHhmWm9GWFhm?oc=5",
    "publisher": "BigGo ファイナンス",
    "date": "2026-09-08T01:25:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "a773b8ccc8c0da40",
-   "sourceId": "meta",
-   "title": "Claude、CarPlayに参入 車載AI五番手も Siri流の音声呼び出しは非対応",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUNlBUcF9vRi0tSENfbHdwSkFLUzZLLUlXcnhKbFVZNi1abXNKRFo0NzkyX2d2ZUI1aEN1bm5oLTJPeE1UWTJfZmxvNWZYTm15a0I4WC14Q0tTTEphODVCTlFHU09fUHNxVS1BVVJrbUgtd2libEpFNzZlbmVIZU0?oc=5",
-   "publisher": "Pasquale Pillitteri",
-   "date": "2026-09-07T15:42:52.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -2270,11 +2259,22 @@
    "via": "Google News"
   },
   {
+   "id": "3a950b59c65a9414",
+   "sourceId": "meta",
+   "title": "メタ、利用データ提供と引き換えにAIモデル最大95%値引き 「Muse Spark」で新料金体系",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03QlF0U0Nkb2k3MWN0WU02UHA4bWhCcDVtdC00c1h6UG81eExrTDlONGpNNFFWbnFITGVXWFpoUVBLOTZrWUN0YzNjNEJpUEtiRkMwNnh2czZDcFhGRkN2U0JHMl8wQjZkYmc?oc=5",
+   "publisher": "media-innovation.jp",
+   "date": "2026-09-06T01:00:03.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
    "id": "8175ce3463aa69cd",
    "sourceId": "xai",
    "title": "Xでよく見る「@grok」とは？使い方や料金、注意点まで徹底網羅",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hT3l6MEZ2Yi1GeFNwT1UyZ3hCcVE5V3FqaTlMaTJyUktvMFBDVzJmaTBoMUpfYlNmQW1aeXBXenNicFpTQldFXzBn?oc=5",
-   "publisher": "SHIFT AI",
+   "publisher": "shift-ai.co.jp",
    "date": "2026-09-08T13:01:02.000Z",
    "excerpt": "",
    "image": null,
@@ -2303,22 +2303,11 @@
    "via": "Google News"
   },
   {
-   "id": "31e1576c76a004f5",
-   "sourceId": "xai",
-   "title": "ChatGPT 、 Claude 、 Grok が一斉にダウン、なぜみんな Cloudflare を疑うのか？",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByY3lRQ2ZaZGFfQlJwVjZ6WGdjX3dfUXVZM2ttWkFJLTBTYVNoN2gxWWpwZ0toZTFnV2hBcHVtak40bUZxakYzdTVJM05DNHR4?oc=5",
-   "publisher": "odaily.news",
-   "date": "2026-09-07T18:10:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "727cb74a6a11ae7e",
    "sourceId": "xai",
    "title": "「家を売ることを考えて」——xAIデータセンターの騒音訴訟、市長が住民に告げた本音",
    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wOGtqOHdYeVlTS2xPejZ4Z0FzaEhlR1dfYkhpWXNBRk1lQ1BsQXJCd1BJbnVGdzB0MkJqZTRUWThsdw?oc=5",
-   "publisher": "shiritomo",
+   "publisher": "hashout.jp",
    "date": "2026-09-07T08:20:40.000Z",
    "excerpt": "",
    "image": null,
@@ -2329,7 +2318,7 @@
    "sourceId": "xai",
    "title": "Create and manage Bots",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE10OS02eVFzb0Y2Zk1YTHVIODE5M2h4UU96U0p6YTRkdEJnQzhDRUxsTEhDTExSYVo1ejlaZkhyR1VLbUkwdGc?oc=5",
-   "publisher": "docs.x.ai",
+   "publisher": "Grok API Documentation",
    "date": "2026-09-07T07:00:00.000Z",
    "excerpt": "",
    "image": null,
@@ -2457,17 +2446,6 @@
    "via": "Google News"
   },
   {
-   "id": "f9c729dfe7a03cb3",
-   "sourceId": "xai",
-   "title": "GTM Loop Closer · Bot Marketplace · Grok Bot",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lc1RHc2xoSjM2cHJjV1hoMlFyaHBXbFplUXA5U2U2bkg2bl9oc192QjlNdUctVU9xYmF4WGRjeEMwRnh4RktObFozdjdvNTJTWWdHenA5NnF3S1hpQXdBVFNvRVo?oc=5",
-   "publisher": "xAI",
-   "date": "2026-09-05T03:12:02.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "51ebe41cad6ade1f",
    "sourceId": "xai",
    "title": "Grok Bot · Stills & Clips Desk · Bot Marketplace",
@@ -2483,7 +2461,7 @@
    "sourceId": "xai",
    "title": "ChatGPT・Claude・Grokで相次いだ障害 仕事をAIに任せる時代、“AIが止まる”リスクをどう考える？",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WcGNJZTFWSGJUODRWdkk4d0EtT04xamZZWEdnLWplY3J0NDFzQmluV3ZFazdSeTVCMDlNOXAtSVNORkU0eGZyOHFnb2k?oc=5",
-   "publisher": "DXマガジン",
+   "publisher": "dxmagazine.jp",
    "date": "2026-09-04T23:46:43.000Z",
    "excerpt": "",
    "image": null,
@@ -2560,7 +2538,7 @@
    "sourceId": "xai",
    "title": "Grok 4.2とは？料金や使い方、Grok 4.1との違いを解説！",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8xM0ZTSUEtTm94ZWExUi1ybWZ1S2NXVFY3dE81VXFzVnRCVTVtQ3RNSzJmTExkY2d4dGV2SlNwNnc0UkZXLVUtdDdR?oc=5",
-   "publisher": "SHIFT AI",
+   "publisher": "shift-ai.co.jp",
    "date": "2026-09-04T07:00:00.000Z",
    "excerpt": "",
    "image": null,
@@ -2626,7 +2604,7 @@
    "sourceId": "xai",
    "title": "ChatGPT・Claude・Grokが同時に落ちた9月3日、35,000件の障害報告が突きつけたAI業界の共通点",
    "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBYdEVBdnhsT1VTQ2Q3NVNkcS1ON1ZTY0VXeWF0bDA1UE5lT18taWt1a0RtV0xaY2JmRlJES09FZDc?oc=5",
-   "publisher": "shiritomo",
+   "publisher": "hashout.jp",
    "date": "2026-09-03T22:27:53.000Z",
    "excerpt": "",
    "image": null,
@@ -2650,17 +2628,6 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TZlNhRmdxdkh0UmNWMFVnSDhRaTZyQnhnY0EtQ29TNEtQVnZXRlktMThnSExHTDJBd0ZyQk5aUmFIUDJ5VWZ4eHg5LTBRejZlTUxtTlQtYlZDNDdOWERtcngyNU1BYVJtTGI5LXoxb1FiUEk?oc=5",
    "publisher": "Межа. Новини України.",
    "date": "2026-09-03T20:22:09.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "2f6447acc697e5da",
-   "sourceId": "xai",
-   "title": "イーロン・マスクが発表、Grok Imagineが2026年末までに『オデュッセイア』を歴史的に正確な長編映画として制作すると表明した",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14QXZsWDRXSkQxLUhPOUpHSGRJeWJCeE9iYTB5RElZZDhXVjRhemEweFJOWllCcjgxLWw1SVZqVkUydVdFT2V3THQzeXlkYmxEVC1yMUdfeGRkNGFVZ1FqY2tOLW0?oc=5",
-   "publisher": "Межа. Новини України.",
-   "date": "2026-09-03T18:20:29.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -2710,12 +2677,56 @@
    "via": "Google News"
   },
   {
+   "id": "558f68faf9461d8a",
+   "sourceId": "xai",
+   "title": "Snowflake Cortex AIでGrok 4.6が利用可能に",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iTWxpRWY3MXd0RWR1cWlKNk81WmtEOVdTaGpCNkFrMnMwd3pVNEVFaGNVUXJQdDU5U0NqYlBDZ0lrTTNPZUVuT3loRmtNRmpMcWlwcTBlYU94X0ZFVm1TMFNGSGlpeElHcTNNTmUySnBSY3Z2UXdKWl9WTmwtWTA?oc=5",
+   "publisher": "Snowflake",
+   "date": "2026-09-03T07:00:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "2acb099fc6c59238",
+   "sourceId": "xai",
+   "title": "Grok Bot - Grok API Documentation",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQdEt5X1BNRWFaYzQxQkgyV1R4ZnRkckM4VFAwQ0E2dUUyR19jSGRJRWUzaXJRY2Q4aXdkVTNTb0FWUTRfUW5JOFVrYw?oc=5",
+   "publisher": "Grok API Documentation",
+   "date": "2026-09-03T07:00:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "13a4b68e56b3e9d4",
+   "sourceId": "xai",
+   "title": "Grok Voice Think Fast 2.0とは？特徴や使い方を解説",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42aDlId1JRU0N0ZkNmSUpBTy1rZFlmRVpwb29FNXFxQUliWlhldWhJNUlIX3oxRGFMRktOVlZqTzZNcXZOOGpzU0E0TGF3dDE4RGkzM1N5cE5mSDBkNndfMHAzanFLX3M2?oc=5",
+   "publisher": "AIsmiley",
+   "date": "2026-09-03T01:10:25.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
    "id": "23b7cd4690234f7b",
    "sourceId": "mistral",
    "title": "Making sovereign, open-weight AI the technology frontier",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5",
    "publisher": "mistral.ai",
-   "date": "2026-09-09T16:33:40.000Z",
+   "date": "2026-09-09T20:52:37.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "b01335bf635b6300",
+   "sourceId": "mistral",
+   "title": "Modernizing complex legacy code with AI agents.",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YcHhmdERoVjc0bTg1RDZadW1VdVN1aEZQRTVKN3dPQjJHRmVOS2Q4OGs0MHJRT25lend4bmJ2cTkzbmVaU2pKRDFyOEZla1Q0SEdIYmNZQzNEWnlJZi1J?oc=5",
+   "publisher": "mistral.ai",
+   "date": "2026-09-09T17:24:24.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -2846,7 +2857,7 @@
    "sourceId": "mistral",
    "title": "欧州のAI軍拡競争が激化するなか、サムスン主導のミストラルAIが33億ドルの資金調達を完了、企業価値は240億ドル超に",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTkNfOWdHa1MzU1NoR0tiT1FScFRmdnRzREdoODVoOWRjMjlTRFlrZ3h5WXJrT1M4cWEzSHdDUk9wMEpvZ1d3OEhPamhFblltRjY0ZDh6WVR2bGdDSTJuaXR0WWtSYks1M2xnVjZDRVdwd09VUE5uNV81NzMyelpvRzZaeXcyOVZPTVA3YUVYWFE1UGdDUW5WZzNvOTU4azNmWjF4YWV4clF6c05lVUo1bklUWUtKbGY5MTdpNTIyb3AwcVdlaGp1S21YNjZrVTJrX3ZRQ2tnVTk0Zw?oc=5",
-   "publisher": "tradingkey.com",
+   "publisher": "TradingKey",
    "date": "2026-09-07T15:21:00.000Z",
    "excerpt": "",
    "image": null,
@@ -3139,17 +3150,6 @@
    "via": "Google News"
   },
   {
-   "id": "508639cd0fb5c8f6",
-   "sourceId": "mistral",
-   "title": "Priority Tier",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6QWRlM0xrZW1YREh4NXlncTVCWFNQbWlkTzNQTTRiSHhnczNRLWRhNlBZY25fWVFqUzNMZTNMNTBwZ3JWVWhFSkFwcVh6djRLSlBSZGZOMlBwNmM?oc=5",
-   "publisher": "Mistral AI Documentation",
-   "date": "2026-08-11T16:04:18.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "bb8bb360bd9975c4",
    "sourceId": "deepseek",
    "title": "DeepSeek moves nearer to landmark Chinese IPO",
@@ -3264,7 +3264,7 @@
    "sourceId": "deepseek",
    "title": "米政府がＤｅｅｐＳｅｅｋなど中国６社を名指し、「米モデル大規模蒸留」と主張(サーチナ)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbEQ4TURsOEsyWTl4N01rYzExZFdiTkFFRzdENlBqQW5GWXdzTzZDNlZGVmludGJsdXhkNDIyc2pIUWxNTjdVVk9jUUVxNHV1T0FaencydXc5WEdJeC1IdlpObUtnUExlRmhwYkpQTEg3ZjJuOTZGZy1QY0o2Z3JsWkNFaXlQN0U?oc=5",
-   "publisher": "Yahoo!ファイナンス",
+   "publisher": "finance.yahoo.co.jp",
    "date": "2026-09-09T02:24:16.000Z",
    "excerpt": "",
    "image": null,
@@ -3306,7 +3306,7 @@
   {
    "id": "7c3069707d00cc53",
    "sourceId": "deepseek",
-   "title": "中国のDeepSeek、バックエンド職150人を一括募集 チーム規模3分の1拡大へ",
+   "title": "中国のDeepSeek、バックエンドエンジニア約150人を一括採用へ チーム規模3割超拡大の可能性",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4dVYzc2tGdDd5VHJkV2RfQnBkQl91S19PT2c1Xy1VRl9Cam1GUW9rMWkxWEZXYTVBXzJQTVc3WUR2RTRUOGpaRWNUa1lJQWE4ZFBpM20yY0VoaERLNGxEZ0dHSGsxNEZIT1hWSzVveXJaczZw?oc=5",
    "publisher": "BigGo ファイナンス",
    "date": "2026-09-08T02:36:00.000Z",
@@ -3396,7 +3396,7 @@
    "sourceId": "deepseek",
    "title": "正体を明かしたばかりの智譜が、DeepSeekの値上げの隙を突いていた中身",
    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBjY1lzRkxrS3RMbXJqeGlSaU1ydElXUmMxamhvQVFsQjNCUHh4Y1F4NTVsSGZ5YlVpdzBLeDR1NEhNdw?oc=5",
-   "publisher": "shiritomo",
+   "publisher": "hashout.jp",
    "date": "2026-09-05T22:33:17.000Z",
    "excerpt": "",
    "image": null,
@@ -3442,17 +3442,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ISHhfVmhNS2xLRTBCYkhucFNVRElaLTA1R3NyV2U5c0Q4ZzZ3LTl3ZTlIZC1XVm9WYlA2djRSWVItaDJVYnpUbmpSUGcyQUZCNzJGTGFCMUsyQ1lnRWtEal8zT0ZkaGZOaW00ZW1qVHQ0S3hv?oc=5",
    "publisher": "BigGo ファイナンス",
    "date": "2026-09-04T14:35:00.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
-   "id": "34dc2cdeca107917",
-   "sourceId": "deepseek",
-   "title": "ファーウェイ半導体を採用 中国AIのディープシーク",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHclI3LWlLUGZTa3d0eTVnUG0zb0xJdG11WTZZZ0F5c1FjcjFpRlNUaXZPVzFFVkR4VDBpQ3pyN0V6OWZSeDhEMEZfb283dVNER0hnTnNn?oc=5",
-   "publisher": "西日本新聞me",
-   "date": "2026-09-04T14:11:24.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -3585,6 +3574,17 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TSS1EcF9rQXczRWxnRkFVMG1jY1ZQRGIyM1ZjcmJNaVh1NWUyQVJQelNacTYzM2JoMG9MNzAxQTJiS3lNaGkwVGpjeElVSGVzanRRMFplYXFFdXN1WTVDNFQzNXFQQjFSU2c?oc=5",
    "publisher": "日経クロステック",
    "date": "2026-08-27T07:00:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "f92b12f70a7ff9c8",
+   "sourceId": "deepseek",
+   "title": "中国：ＤｅｅｐＳｅｅｋの１～７月売上高４．７５億元、前年通期の１０倍に(サーチナ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa2FraFhqcTVua2VKYVdpRjl5Vi1fb1NPQmNQeEJzMjk5aU9VNjlOOWUwSjQyUVZ1SXJmZThQcldCRDJVanNCWndJSDAtMTBhaXBSbmw4blhLdWV1MGJIemVvSDg2QXF4c2VQNHZScVNxUENxelVtUU4wNkd3SkFEY2VzbXV5Mzg?oc=5",
+   "publisher": "finance.yahoo.co.jp",
+   "date": "2026-08-26T08:56:00.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
@@ -3986,17 +3986,6 @@
    "via": "Google News"
   },
   {
-   "id": "e87e26ee87354d70",
-   "sourceId": "others",
-   "title": "NVIDIA、Hugging Faceを12,930,300,000ドル（約2兆170億円）で買収",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vWGU2ZmJhTHFSak9lamdLRms5YUxnYkRGLXVMemFxdXRIeWloTUtiQWhzMF83aU94MmNRU1c2WnJYUkl4VG42YWdxaFhOQU1xUW1wWg?oc=5",
-   "publisher": "ニコニコニュース",
-   "date": "2026-09-04T05:24:13.000Z",
-   "excerpt": "",
-   "image": null,
-   "via": "Google News"
-  },
-  {
    "id": "c02a74a25ef41e28",
    "sourceId": "others",
    "title": "NVIDIA、Hugging Face買収で狙う次の一手 オープン性を維持しAI開発基盤を拡張",
@@ -4025,6 +4014,17 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWkRIYnk2S2xZeEYxbTJQckJrYWFUdVdGbzhqSW9ySDlMejN6SXB0NHI1ZGpOemFDbWE5cGE5TXNONXdkU0t3eW1UWDcxeGxmN2xoSjNoRGVLNXR1dlRGanF2S3BKX29hVGhFaTdQWWt4eGNpeDRTeXlybE9zeDVReE9IYXdRWFExQ2ktUzRn?oc=5",
    "publisher": "Yahoo!ニュース",
    "date": "2026-09-04T03:20:00.000Z",
+   "excerpt": "",
+   "image": null,
+   "via": "Google News"
+  },
+  {
+   "id": "b462e575a7e0f935",
+   "sourceId": "others",
+   "title": "NVIDIA、約129億3,000万ドルで「Hugging Face」を買収",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NVnVMOW95dkRSVjg0bXhZckdIaG9aNnhfNmhNOVlwUml5MFhWcWNFY3hFVmpLZVM5SDFUZ1JfZ0ppcUdtY3E1OTRfdUMwLXVVeGg0UmNjbEZWdUFxWFBOTHVFYw?oc=5",
+   "publisher": "株式会社インプレス",
+   "date": "2026-09-04T03:11:50.000Z",
    "excerpt": "",
    "image": null,
    "via": "Google News"
